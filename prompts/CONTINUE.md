@@ -36,7 +36,7 @@ Rules that bind every file:
 - No tradition's, school's or commentator's interpretation is reported. No opinion is added. No "genuinely," "honestly," or hedge language. State the form and stop.
 - Never name a version, group or commentator in `readable.md`.
 - Append and extend. Never rewrite, reorder or restyle what is already written. Correct an earlier entry only when the new chapter proves it wrong, and record the correction in the session log.
-- Every reading cited (Hebrew, Greek, Syriac, Latin, Aramaic, or an English version's wording) comes from an edition listed in `sources/README.md`. An English rendering placed in a comparison table or belief row is checked against a copy of that version, not recalled. A reading taken from a site rather than a critical edition says so in the note.
+- Sources: every reading cited (Hebrew, Greek, Syriac, Latin, Aramaic, or an English version's wording) names the edition, manuscript image or site it was taken from, and that source is entered in `sources/README.md` the first time it is used. The register records; it does not restrict. Prefer the oldest primary evidence available: a manuscript photograph or published plate over a printed edition, a printed critical edition over a website, an original printing of a version over a later revision. An English rendering placed in a comparison table or belief row is checked against a copy of that version, not recalled, and the copy is named. A reading taken from a site rather than an edition says so in the note.
 
 ## 3. Before translating: write the chapter's watch list
 
@@ -78,7 +78,7 @@ Check each of these and fix what fails:
 - Every witness count in a readable correction ("three old translations") matches the variant table row.
 - No note reports a reading as "some read," "many take," "tradition holds" or the like. State the Hebrew's form and what each witness has, and stop.
 - When you overturn an earlier entry, the session log names the source checked and distinguishes the witness itself from its translation (the Samaritan Pentateuch is not the Samaritan Targum; the LXX is not a Church Father quoting it).
-- Every version rendering in the new comparison table was looked up in the copy named in `sources/README.md`, not recalled.
+- Every version rendering in the new comparison table was looked up in a named copy of that version, not recalled, and any source used for the first time has a row in `sources/README.md`.
 
 ## 6. Hand off
 
