@@ -4,6 +4,8 @@ This is not a coding project. It is a literal translation of the Bible from the 
 
 ## Start of every session
 
+If the session was opened with `prompts/CONTINUE.md`, follow it; it repeats and expands these steps.
+
 1. Read `method/method.md`, `method/judging-variants.md` and the last entry in `method/session-log.md`.
 2. Read the book folder you are continuing: the last chapter in `log/`, and `running.md`, `readable.md`, `findings.md`, `version-comparison.md`.
 3. Read `belief/translation-to-belief.md` and `concordance/hebrew.md` so new rows number on correctly and existing entries are not duplicated.

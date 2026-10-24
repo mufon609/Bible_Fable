@@ -31,6 +31,7 @@ books/
     version-comparison.md     tables comparing KJV, NIV, ESV, NASB, NRSV, JPS at the points that differ
   new-testament/40-matthew/   (same layout, when reached)
 sources/                      archived source material kept with the project; see sources/README.md
+prompts/CONTINUE.md           the starting prompt for a fresh session; it finds the next chapter from the session log
 CLAUDE.md                     instructions for an AI session continuing the work
 ```
 
