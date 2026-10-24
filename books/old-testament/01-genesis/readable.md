@@ -430,8 +430,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *that great was the badness of the human in the earth* ⸥
 
-*"Forming": the noun of the verb "formed" in 2:7–8, what a potter or maker shapes (Isa 29:16; Ps 103:14); "imagination" meant a devising in older English and now means fancy. "Bad" is the word of 2:9 and 3:5, "good and bad"; "wickedness" and "evil" narrow it to the moral sense.*
-
 **6** And YHWH was sorry that he had made the human in the earth, and he was grieved to his heart.
 
 *"Was sorry": the form means "change one's mind, relent," and is said of God in Ex 32:14 and 1 Sam 15:11, 29; "repented" meant the same in older English and now means turning from sin. "Grieved": the verb whose noun is the "toil" of 3:16–17 and 5:29; the one root is said of the woman, of the man and now of YHWH.*
@@ -473,8 +471,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 ⸤ *A tzohar you shall make for the box, and to a cubit you shall finish it from above; and the opening of the box you shall set in its side; lower, second and third \[ones\] you shall make it* ⸥
 
 **17** And I, behold, I am bringing the flood, waters upon the earth, to ruin all flesh in which is spirit of life, from under the heavens; all which is in the earth shall expire.
-
-*"Spirit of life": the word is the "spirit" of 1:2 and of 6:3 ("my spirit"), not the "breath" of 2:7, which is another noun; versions that write "breath of life" in both places join two words the Hebrew keeps apart. The spirit of life here is in "all flesh," the animals included (7:15, 22). "Expire": a different verb from "die" (2:17); Abraham "expired and died" (25:8).*
 
 **18** And I will establish my covenant with you, and you shall come into the box, you and your sons and your woman and your sons' women with you.
 
