@@ -221,3 +221,69 @@ The log's own rendering of Genesis, assembled from the verse tables in log/. Lit
 **25** And Adam knew again his woman, and she bore a son, and she called his name Shet, "for God has set for me another seed instead of Hevel, for Qayin killed him."
 
 **26** And to Shet, also he, was born a son, and he called his name Enosh. Then it was begun to call on the name of YHWH.
+
+## Chapter 5
+
+**1** This is the book of the begettings of Adam. In the day of God's creating human, in the likeness of God he made him.
+
+**2** Male and female he created them, and he blessed them and called their name human, in the day of their being created.
+
+**3** And Adam lived thirty and a hundred years, and begot in his likeness, as his image, and called his name Shet.
+
+**4** And the days of Adam after his begetting Shet were eight hundred years, and he begot sons and daughters.
+
+**5** And all the days of Adam which he lived were nine hundred years and thirty years, and he died.
+
+**6** And Shet lived five years and a hundred years, and begot Enosh.
+
+**7** And Shet lived after his begetting Enosh seven years and eight hundred years, and begot sons and daughters.
+
+**8** And all the days of Shet were twelve years and nine hundred years, and he died.
+
+**9** And Enosh lived ninety years, and begot Qeinan.
+
+**10** And Enosh lived after his begetting Qeinan fifteen years and eight hundred years, and begot sons and daughters.
+
+**11** And all the days of Enosh were five years and nine hundred years, and he died.
+
+**12** And Qeinan lived seventy years, and begot Mahalal'el.
+
+**13** And Qeinan lived after his begetting Mahalal'el forty years and eight hundred years, and begot sons and daughters.
+
+**14** And all the days of Qeinan were ten years and nine hundred years, and he died.
+
+**15** And Mahalal'el lived five years and sixty years, and begot Yered.
+
+**16** And Mahalal'el lived after his begetting Yered thirty years and eight hundred years, and begot sons and daughters.
+
+**17** And all the days of Mahalal'el were five and ninety years and eight hundred years, and he died.
+
+**18** And Yered lived two and sixty years and a hundred years, and begot Chanokh.
+
+**19** And Yered lived after his begetting Chanokh eight hundred years, and begot sons and daughters.
+
+**20** And all the days of Yered were two and sixty years and nine hundred years, and he died.
+
+**21** And Chanokh lived five and sixty years, and begot Metushelach.
+
+**22** And Chanokh walked about with God after his begetting Metushelach three hundred years, and begot sons and daughters.
+
+**23** And all the days of Chanokh were five and sixty years and three hundred years.
+
+**24** And Chanokh walked about with God, and he was not, for God took him.
+
+**25** And Metushelach lived seven and eighty years and a hundred years, and begot Lemekh.
+
+**26** And Metushelach lived after his begetting Lemekh two and eighty years and seven hundred years, and begot sons and daughters.
+
+**27** And all the days of Metushelach were nine and sixty years and nine hundred years, and he died.
+
+**28** And Lemekh lived two and eighty years and a hundred years, and begot a son.
+
+**29** And he called his name Noach, saying, "This one shall comfort us from our work and from the toil of our hands, from the ground which YHWH cursed."
+
+**30** And Lemekh lived after his begetting Noach five and ninety years and five hundred years, and begot sons and daughters.
+
+**31** And all the days of Lemekh were seven and seventy years and seven hundred years, and he died.
+
+**32** And Noach was a son of five hundred years, and Noach begot Shem, Cham and Yefet.

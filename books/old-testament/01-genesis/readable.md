@@ -371,3 +371,111 @@ The running translation, with English grammar allowed to touch it and nothing el
 ⸤ *And to Shet, also he, was born a son* ⸥
 
 *"It was begun": a passive with no subject; "men" or "people" in English is supplied. "Enosh" is a common word for a human being (Ps 8:5; Job 7:17) used as a name, as "Adam" is. "Call on the name of YHWH" is the phrase of Abram at his altars (12:8; 13:4) and of YHWH proclaiming his own name (Ex 33:19; 34:5).*
+
+## Chapter 5
+
+**1** This is the book of the begettings of Adam. In the day God created human, in the likeness of God he made him.
+
+⸤ *In the day of God's creating human* ⸥
+
+*"Begettings," not "generations" as ages or eras: the word is built on "bear" and heads what came from the one named, as in 2:4. "Human": the word has no article here or in 5:2, and the pronouns that follow it are "him" and then "them," as in 1:27; the same letters are the name in 5:3–5, where one man lives and dies.*
+
+**2** Male and female he created them, and he blessed them and called their name human, in the day they were created.
+
+⸤ *in the day of their being created* ⸥
+
+*"Called their name human": the pair receives one name, and it is the word for humankind of 1:26, not a man's name given to the species; the ancient translations wrote the name "Adam" here, and every English version follows them with "Adam," "Man" or "Mankind."*
+
+**3** And Adam lived a hundred and thirty years, and begot in his likeness, as his image, and called his name Shet.
+
+⸤ *thirty and a hundred years* ⸥
+
+*"In his likeness, as his image": the two words of 1:26 with their prepositions exchanged; the son stands to Adam as Adam to God in 5:1. The Hebrew names no son in this clause; "a son" is supplied in English.*
+
+**4** And the days of Adam after he begot Shet were eight hundred years, and he begot sons and daughters.
+
+⸤ *after his begetting Shet* ⸥
+
+**5** And all the days of Adam which he lived were nine hundred years and thirty years, and he died.
+
+*The numbers printed here are those of the pointed Hebrew text, which the oldest Latin and Syriac translations share. The second Hebrew line and the oldest Greek translation give other numbers in most lines of this chapter (5:3–31); the full table is in the verse log at 5:3 and the case in the variant table. In all three sets the total is the sum of the two parts. The Hebrew says the smaller number first and repeats "years" after each part; both are kept.*
+
+**6** And Shet lived five years and a hundred years, and begot Enosh.
+
+**7** And Shet lived after he begot Enosh seven years and eight hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Enosh* ⸥
+
+**8** And all the days of Shet were twelve years and nine hundred years, and he died.
+
+**9** And Enosh lived ninety years, and begot Qeinan.
+
+**10** And Enosh lived after he begot Qeinan fifteen years and eight hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Qeinan* ⸥
+
+**11** And all the days of Enosh were five years and nine hundred years, and he died.
+
+**12** And Qeinan lived seventy years, and begot Mahalal'el.
+
+**13** And Qeinan lived after he begot Mahalal'el forty years and eight hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Mahalal'el* ⸥
+
+**14** And all the days of Qeinan were ten years and nine hundred years, and he died.
+
+**15** And Mahalal'el lived five years and sixty years, and begot Yered.
+
+**16** And Mahalal'el lived after he begot Yered thirty years and eight hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Yered* ⸥
+
+**17** And all the days of Mahalal'el were five and ninety years and eight hundred years, and he died.
+
+**18** And Yered lived two and sixty years and a hundred years, and begot Chanokh.
+
+**19** And Yered lived after he begot Chanokh eight hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Chanokh* ⸥
+
+**20** And all the days of Yered were two and sixty years and nine hundred years, and he died.
+
+**21** And Chanokh lived five and sixty years, and begot Metushelach.
+
+**22** And Chanokh walked about with God after he begot Metushelach three hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Metushelach* ⸥
+
+*"Walked about with God": the verb is the one of 3:8, where it is God walking about in the garden; "with" is the word of 4:1. The phrase is said again of Noach (6:9) and of no one else. The oldest Greek translation rendered it "pleased God" here and in 5:24, and that wording passed into the New Testament (Heb 11:5); the Hebrew has a verb of walking, and "faithfully" is not in it.*
+
+**23** And all the days of Chanokh were five and sixty years and three hundred years.
+
+**24** And Chanokh walked about with God, and he was not, for God took him.
+
+*"He was not" is the phrase said of a person who is gone (Gen 37:30; 42:13, 36; Ps 37:10); "took" is the ordinary verb for taking (2:15; 3:6; 4:11). The verse names no place. Where the Bible tells of a man taken by God and says where, it says so (2 Kgs 2:11, "into the heavens"); "translated" and "transferred" are the Greek translation's word (Heb 11:5), not the Hebrew's.*
+
+**25** And Metushelach lived seven and eighty years and a hundred years, and begot Lemekh.
+
+**26** And Metushelach lived after he begot Lemekh two and eighty years and seven hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Lemekh* ⸥
+
+**27** And all the days of Metushelach were nine and sixty years and nine hundred years, and he died.
+
+**28** And Lemekh lived two and eighty years and a hundred years, and begot a son.
+
+**29** And he called his name Noach, saying, "This one shall comfort us from our work and from the toil of our hands, from the ground which YHWH cursed."
+
+*"Comfort": the verb has the two letters of the name and one more; the name itself has the letters of "rest," a different verb the verse does not use, and the Greek translation rendered "give us rest." "Toil" is the word said to the woman and the man in 3:16–17, its third and last use. "From the ground which YHWH cursed": in 3:17 the ground "is cursed" with no one named; here the speaker names YHWH. The three "from" are parallel in the Hebrew; "concerning" and "because of" are not in it.*
+
+**30** And Lemekh lived after he begot Noach five and ninety years and five hundred years, and begot sons and daughters.
+
+⸤ *after his begetting Noach* ⸥
+
+**31** And all the days of Lemekh were seven and seventy years and seven hundred years, and he died.
+
+**32** And Noach was five hundred years old, and Noach begot Shem, Cham and Yefet.
+
+⸤ *a son of five hundred years* ⸥
+
+*"Five hundred years old" is the Hebrew idiom "son of five hundred years" (7:6; 12:4; 21:5). Noach's line is left open: no "sons and daughters," no total, no death; 9:28–29 closes it in the formula's words.*
