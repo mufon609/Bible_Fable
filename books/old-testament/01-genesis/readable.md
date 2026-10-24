@@ -555,3 +555,61 @@ The running translation, with English grammar allowed to touch it and nothing el
 ⸤ *and \[those\] who \[were\] with him* ⸥
 
 **24** And the waters prevailed upon the earth fifty and a hundred days.
+
+## Chapter 8
+
+**1** And God remembered Noach and every living-thing and every beast which was with him in the box; and God caused a wind to pass over the earth, and the waters subsided.
+
+**2** And the fountains of the deep and the windows of the heavens were stopped, and the rain from the heavens was restrained.
+
+**3** And the waters returned from upon the earth, going and returning; and the waters decreased at the end of fifty and a hundred days.
+
+**4** And the box rested in the seventh month, on the seventeenth day to the month, upon the mountains of Ararat.
+
+**5** And the waters were going and decreasing until the tenth month; in the tenth, on the first to the month, the heads of the mountains were seen.
+
+**6** And it was, at the end of forty days, and Noach opened the window of the box which he had made.
+
+**7** And he sent the raven, and it went out, going out and returning, until the drying-up of the waters from upon the earth.
+
+**8** And he sent the dove from with him, to see whether the waters had lightened from upon the face of the ground.
+
+**9** And the dove did not find a resting-place for the sole of her foot, and she returned to him, to the box, for waters were upon the face of all the earth; and he sent his hand and took her and brought her to him, into the box.
+
+**10** And he waited yet seven other days, and he added to send the dove from the box.
+
+**11** And the dove came to him at the time of evening, and behold, a fresh olive leaf in her mouth; and Noach knew that the waters had lightened from upon the earth.
+
+⸤ *a leaf of olive, fresh, in her mouth* ⸥
+
+**12** And he waited yet seven other days, and he sent the dove, and she did not add to return to him again.
+
+**13** And it was, in one and six hundred years, in the first, on the first to the month, the waters dried from upon the earth; and Noach removed the box's covering and saw, and behold, the face of the ground had dried.
+
+⸤ *the covering of the box* ⸥
+
+**14** And in the second month, on the seven and twentieth day to the month, the earth dried up.
+
+**15** And God spoke to Noach, saying,
+
+**16** "Go out from the box, you and your woman and your sons and your sons' women with you.
+
+⸤ *the women of your sons* ⸥
+
+**17** Every living-thing which is with you, from all flesh, among the flyer and among the beast and among every creeper that creeps upon the earth, bring out with you; and they shall swarm in the earth and be fruitful and multiply upon the earth."
+
+**18** And Noach went out, and his sons and his woman and his sons' women with him.
+
+⸤ *the women of his sons* ⸥
+
+**19** Every living-thing, every creeper and every flyer, all that moves upon the earth, went out from the box by their families.
+
+⸤ *by their families went out from the box* ⸥
+
+**20** And Noach built an altar to YHWH, and took from every clean beast and from every clean flyer, and caused ascent-offerings to go up on the altar.
+
+**21** And YHWH smelled the smell of the soothing, and YHWH said to his heart, "I will not add to curse the ground again on account of the human, for the forming of the human's heart is bad from his youth; and I will not add again to smite all living, as I have done.
+
+⸤ *the forming of the heart of the human* ⸥
+
+**22** Yet all the days of the earth, seed and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
