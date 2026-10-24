@@ -71,6 +71,11 @@ Check each of these and fix what fails:
 - Every new belief row is numbered on from the last; every term in a new finding has a concordance entry; every concordance count that is approximate is marked representative.
 - No hedge words. No statement of what the text intends.
 - Nothing already written was changed except a correction you can name.
+- Every readable verse keeps every Hebrew word, including "and it was," "and it shall be" and "also he" style connectives, and keeps an impersonal or passive subject impersonal; it adds no article and no "so," "there," "one" or "the" beyond a copula. If a verse cannot be made readable within (A), (B), (C), leave it literal.
+- Every count you state in a note or finding ("seven times in 4:2–11") was made by listing the verses, and the list is in the note or the concordance.
+- Every witness count in a readable correction ("three old translations") matches the variant table row.
+- No note reports a reading as "some read," "many take," "tradition holds" or the like. State the Hebrew's form and what each witness has, and stop.
+- When you overturn an earlier entry, the session log names the source checked and distinguishes the witness itself from its translation (the Samaritan Pentateuch is not the Samaritan Targum; the LXX is not a Church Father quoting it).
 
 ## 6. Hand off
 

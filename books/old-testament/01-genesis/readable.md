@@ -276,9 +276,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **2** And she again bore his brother, Hevel. And Hevel was a shepherd of flock, and Qayin was a worker of ground.
 
-**3** And at the end of days Qayin brought from the fruit of the ground an offering to YHWH.
-
-⸤ *And it was, at the end of days, and Qayin brought* ⸥
+**3** And it was, at the end of days, and Qayin brought from the fruit of the ground an offering to YHWH.
 
 *"Offering": the word for a gift carried to a superior (Gen 32:14; 43:11; Judg 3:15) and for the grain offering of the law (Lev 2:1). The chapter has no altar and no word for sacrifice; both brothers bring the same thing, named by the same word.*
 
@@ -292,15 +290,15 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **6** And YHWH said to Qayin, "Why has it burned to you, and why has your face fallen?
 
-**7** Is it not so: if you do well, there is a lifting; and if you do not do well, sin is lying down at the door; and its desire is to you, and you shall rule over it."
+**7** Is it not: if you do well, there is a lifting; and if you do not do well, sin is lying down at the door; and its desire is to you, and you shall rule over it."
 
 ⸤ *Is it not: if you do well, a lifting; and if you do not do well, at the door sin \[is\] lying down; and to you its desire* ⸥
 
 *"A lifting": the noun of the verb in "his face fell" reversed (4:5–6) and of "more than to bear" (4:13); the verb lifts a face (Job 11:15), carries a load (Gen 45:23) and lifts away guilt (Ex 34:7). "Lying down" is the verb for flocks at rest (Gen 29:2; Ex 23:5) and for a curse settling on a man (Deut 29:19). "Sin" is the word's first use. "Desire" and "rule over" are the two words said to the woman in 3:16, in the same order.*
 
-**8** And Qayin said to Hevel his brother. And when they were in the field, Qayin rose up against Hevel his brother and killed him.
+**8** And Qayin said to Hevel his brother. And it was, when they were in the field, and Qayin rose up against Hevel his brother and killed him.
 
-⸤ *And it was, in their being in the field, and Qayin rose up* ⸥
+⸤ *in their being in the field* ⸥
 
 *The Hebrew gives no words after "said." Four old witnesses, one of them Hebrew, add "Let us go to the field." The shorter text is kept here; the case is set out in the variant table.*
 
@@ -326,17 +324,13 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 *"Iniquity": the word for guilt and for what guilt brings (Gen 19:15; 1 Sam 28:10); "bear" is the "lifting" of 4:7, the verb for carrying a load and for forgiving (Ex 34:7; Num 14:18). "Punishment" is one sense the word can carry, not a separate word in the verse.*
 
-**14** Behold, you have driven me out today from upon the face of the ground, and from your face I shall be hidden; and I shall be staggering and wandering in the earth, and everyone finding me shall kill me."
-
-⸤ *and it shall be, everyone finding me* ⸥
+**14** Behold, you have driven me out today from upon the face of the ground, and from your face I shall be hidden; and I shall be staggering and wandering in the earth, and it shall be, everyone finding me shall kill me."
 
 *"Driven out": the verb of 3:24.*
 
-**15** And YHWH said to him, "Therefore everyone killing Qayin shall be avenged sevenfold." And YHWH set for Qayin a sign, so that everyone finding him should not strike him.
+**15** And YHWH said to him, "Therefore everyone killing Qayin, sevenfold it shall be avenged." And YHWH set for Qayin a sign, so that everyone finding him should not strike him.
 
-⸤ *everyone killing Qayin, sevenfold it shall be avenged* ⸥
-
-*"A sign for Qayin," not "a mark upon Cain": the word is the "signs" of 1:14 and the rainbow (9:12–13); "for" is the word, not "on." Where a sign is on the body the text says so (Ex 13:9, 16). Nothing in the verse says what the sign was or where. "Therefore" is the Hebrew of both Hebrew lines; two old translations read "Not so."*
+*"A sign for Qayin," not "a mark upon Cain": the word is the "signs" of 1:14 and the rainbow (9:12–13); "for" is the word, not "on." Where a sign is on the body the text says so (Ex 13:9, 16). Nothing in the verse says what the sign was or where. "Therefore" is the word of both Hebrew lines; three old translations read "Not so."*
 
 **16** And Qayin went out from before YHWH, and settled in the land of Nod, east of Eden.
 
@@ -348,7 +342,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **19** And Lemekh took for himself two women; the name of the one was Adah, and the name of the second Tzillah.
 
-**20** And Adah bore Yaval; he was father of the tent-dweller and livestock.
+**20** And Adah bore Yaval; he was father of tent-dweller and livestock.
 
 ⸤ *father of dweller of tent and livestock* ⸥
 
