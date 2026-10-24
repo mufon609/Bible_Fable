@@ -496,7 +496,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **2** From every clean beast you shall take for yourself seven seven, a man and his woman; and from the beast which is not clean, two, a man and his woman.
 
-*"Seven seven": the numeral is said twice, the construction that 7:9 and 7:15 use for "two two," and no word for "pair" stands in the verse. "Seven pairs," the rendering now common, doubles the count; the Hebrew form states seven of each kind, as "two two" states two.*
+*"Seven seven": the numeral is said twice, the same construction as "two two" in 7:9 and 7:15; no word for "pair" stands in the verse.*
 
 **3** Also from the flyer of the heavens seven seven, male and female, to keep alive seed upon the face of all the earth.
 
