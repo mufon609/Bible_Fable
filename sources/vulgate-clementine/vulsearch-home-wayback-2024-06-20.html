@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>The Clementine Vulgate Project</title>
+  <link rel="alternate" type="application/rss+xml" href="http://vulsearch.sourceforge.net/clemtext.rss" />
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif; }
+#content { float: left; max-width: 60ch; padding-left: 0.5ch; padding-right: 0.5ch; }
+h1,h2,h3,h4,h5,h6 { color: blue; }
+a { text-decoration: none; color: navy;
+}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+  </style>
+
+
+  <body>
+    <div id="content">
+
+    <!-- Navbar -->
+    <div class="w3-top">
+      <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+        <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+        <a href="/index.html" class="w3-bar-item w3-button w3-theme-l1">Home</a>
+        <a href="/html/index.html" class="w3-bar-item w3-button w3-hover-white">View</a>
+        <a href="/cgi-bin/vulsearch" class="w3-bar-item w3-button w3-hover-white">Search</a>
+        <a href="/vulgata.mobi" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Ebook: Kindle</a>
+        <a href="/vulgata.epub" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Ebook: EPUB</a>
+        <a href="/vulgata-2col.pdf" class="w3-bar-item w3-button w3-hide-small w3-hover-white">PDF</a>
+        <a href="#vulsearch" class="w3-bar-item w3-button w3-hide-small w3-hover-white">VulSearch</a>
+        <a href="#contact" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
+      </div>
+    </div>
+
+    <!-- Sidebar -->
+    <nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" id="mySidebar">
+      <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
+        <i class="fa fa-remove"></i>
+      </a>
+      <a href="/index.html" class="w3-bar-item w3-button w3-hover-white">Home</a>
+      <a href="/html/index.html" class="w3-bar-item w3-button w3-hover-white">View text online</a>
+      <a href="/vulgata.epub" class="w3-bar-item w3-button w3-hover-white">Download ebook</a>
+      <a href="/cgi-bin/vulsearch" class="w3-bar-item w3-button w3-hover-white">Search text</a>
+      <a href="#vulsearch" class="w3-bar-item w3-button w3-hover-white">VulSearch for Windows</a>
+      <a href="#contact" class="w3-bar-item w3-button w3-hover-white">Contact</a>
+    </nav>
+
+    <!-- Overlay effect when opening sidebar on small screens -->
+    <div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+  <!-- Header -->
+  <header class="w3-container w3-padding-48 w3-white">
+    <h1><b>Clementine Vulgate Project</b></h1>
+    <h6><span class="w3-tag w3-blue">The full text of the Clementine Vulgate, freely available online</span></h6>
+  </header>
+
+    <!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
+    <div class="w3-main" style="margin-left:250px">
+
+      <div class="w3-row">
+        <h2>The Clementine Text Project</h2>
+        <h3>About the project</h3>
+        <p>The Clementine Text Project was an effort between 2002 and 2005 to
+        create a free online text version of the Clementine Vulgate. This is an
+        historically important edition of the Latin Bible that previously did not
+        exist in electronic form. Many people generously gave their time to help
+        create and proof-read the new text. Work to maintain the text and correct
+        errors that are found is ongoing: the latest update was on
+    <b>Oct 22 2022</b>.</p>
+
+        <h3>Access the text</h3>
+        <p>The full text is available to <a href="/html/index.html">browse</a>,
+        <a href="/cgi-bin/vulsearch">search</a> or <a
+           href="https://bitbucket.org/clementinetextproject/text/downloads/">download</a> online. The <a href="/vulgata.epub">ebook version</a> was produced using <a href="https://gitlab.com/jperon/vulgata">scripts by Fr Jacques Peron</a>: sincere thanks to him. For notifications when new corrections are made to the text, subscribe to the <a href="http://vulsearch.sourceforge.net/clemtext.rss">RSS feed&nbsp;<img style="border: 0;"
+           src="/rss.png"
+           alt="RSS feed" id="rss-image" /></a>.
+
+         <h3>The version of the text</h3>
+         <p>There is a single, definitive Clementine text, namely the Editio Typica
+         published by the Typographus Vaticanus in 1598 under the title "Biblia
+         Sacra Vulgat&aelig; editionis, Sixti V Pontificis Maximi jussu recognita
+         et edita". However, the text here has necessarily been derived from later
+         sources, principally that edited by A.&nbsp;Colunga and L.&nbsp;Turrado (La
+         Editorial Cat&oacute;lica, Madrid,&nbsp;1946). For dubious readings, the
+         editions of <a
+                          href="http://www.sacredbible.org/vulgate1861/">C.&nbsp;Vercellone</a>
+         (Typis S.&nbsp;Congregationis de Propaganda Fide, Rome, 1861) and <a
+                          href="http://www.sacredbible.org/hetzenauer1914/">M.&nbsp;Hetzenauer</a>
+         (Pustet &amp; Co, 1914) were also consulted. Only the canonical books
+         are included (many printed versions include an appendix with the
+         apocryphal books Oratio Manass&aelig; and Esdr&aelig; III and IV).
+         </p>
+
+         <h3>Editorial decisions</h3>
+         <p>The words of the text have been transcribed as accurately as possible,
+         human error notwithstanding.  The usual division into books,
+         chapters, and verses is observed. Punctuation, which varies widely
+         between different editions, has been chosen with
+         readability in mind; the text is divided into paragraphs for the
+         same purpose.  In the poetry sections, the text is presented
+         split into lines, following Colunga and Turrado, who themselves in
+         their Pr&aelig;fatio say they follow other 'recentiores editiones'
+         in this.</p>
+
+         <p>Where there are minor variations in spelling amongst the
+         previous editions, the new version generally adopts those spellings
+         most familiar from the liturgical books printed in the first half of
+         the twentieth century. It also
+         distinguishes the semivowel j, and represents the diphthongs ae and
+         oe by ligatures.</p>
+
+         <h3>Copyright and licensing</h3>
+         <p>The text has been released into the public
+         domain. Those who use it are requested to acknowledge
+         their source, report typographical errors to the project maintainer,
+         and make clear any modifications they make, but these are only
+         requests that are not enforced by any licence.</p>
+      </div>
+
+      <div class="w3-row">
+
+        <h2 id="vulsearch">Download VulSearch for Windows</h2>
+        <h3>About VulSearch</h3>
+        <p>VulSearch 4.2 is a desktop program for Windows.  There are no
+        current plans for Mac, Linux or mobile versions: sorry!</p>
+        <ul style="position: relative; left: 1.5em; ">
+          <li>View the Clementine Vulgate Bible with the Douay&ndash;Rheims
+            translation side-by-side</li>
+          <li>Fast full-text searching of both bibles</li>
+          <li>Create bookmarks, cross-references and annotations</li>
+          <li>Integrated with the Latin dictionary program <a href=
+          "http://archives.nd.edu/whitaker/words.htm">Words</a></li>
+        </ul>
+        <a target="_blank" href="screenshot_4_2.png">See a screenshot.</a>
+
+        <h3>Download</h3>
+        <p><a class="standout" href=
+        "http://prdownloads.sourceforge.net/vulsearch/VulSearch_4_2_1_1.exe">Download
+        VulSearch 4.2.1.1</a> (40&nbsp;Mb)
+        </p>
+
+        <h3>VulSearch is free software</h3>
+        <p>VulSearch is copyright &copy;&nbsp;2000-17, but
+        is released under the <a href=
+        "https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html">GNU General
+        Public License v2 or later</a>.
+      This means that it can be freely used, copied, modified and
+      distributed, and the source code is <a
+              href="https://bitbucket.org/clementinetextproject/vulsearch4">available</a> too.</p>
+        <p>Words is used by kind permission of William Whitaker.</p>
+
+      </div>
+
+      <div class="w3-row">
+        <h2 id="contact">Contact</h2>
+
+        <p>You can email the project maintainer at
+        (clementinevulgateproject@mail.com). Please report any
+        errors you find in the text. Warning: replies may
+        not be quick&nbsp;- sorry!&nbsp;- but I get to everything in the end. Feel free to nudge me if you think your email has been lost or forgotten. (Note that the previous email address for the project no longer works, because of a change by the provider.)</p>
+      </div>
+
+
+        <footer id="myFooter">
+          <p style="padding-top: 4em;"><i>Hosted by</i>
+          <a
+             href="http://sourceforge.net"><img style="border: 0;"
+                                                src="http://sourceforge.net/sflogo.php?group_id=53472&amp;type=1"
+                                                alt="SourceForge.net" id="sf" /></a>
+          </p>
+        </footer>
+
+        <!-- END MAIN -->
+      </div>
+      </div>
+
+      <script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+      </script>
+
+  </body>
+
+
+</html>

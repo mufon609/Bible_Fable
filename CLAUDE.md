@@ -27,6 +27,7 @@ No tradition's, school's or commentator's interpretation is reported, and no opi
 6. Belief table: state what the English permits; a claim about what readers believed only with a citation.
 7. Readable text: three permitted changes only, (A) English word order or phrasing of a construct, (B) a copula or reciprocal the Hebrew form supplies, (C) a bracketed supplied word unbracketed. Corrections only for well-known misreadings, one or two sentences, with one to four verses a reader can open. "It was" in "saw that it was good" is supplied without marking.
 8. Transliteration: *ch* ח, *kh* soft כ, *tz* צ, *q* ק, *sh* שׁ, *s* שׂ and ס; *'* for ע and for א within a word, unmarked at the start of a word; doubled consonants for dagesh forte; construct forms as pronounced.
+9. Sources: every reading cited (Hebrew, Greek, Syriac, Latin, Aramaic, or an English version's wording) comes from an edition listed in `sources/README.md`; an English rendering placed in a comparison table or belief row is checked against a copy of that version, not recalled; a reading taken from a site rather than a critical edition says so in the note.
 
 ## Per-chapter deliverables, in this order
 
@@ -51,7 +52,7 @@ No tradition's, school's or commentator's interpretation is reported, and no opi
 
 ## End of every session
 
-Append an entry to `method/session-log.md`: date, chapter covered, rows and entries added by number, any earlier entry corrected and why, anything left unchecked. Add any new open item to the "Open work" paragraph in `method/method.md`. Then commit with a message naming the book and chapter (for example `Genesis 4: verse log, translations, rows 33–37`) and push.
+Append an entry to `method/session-log.md`: date, chapter covered, rows and entries added by number, any earlier entry corrected and why, anything left unchecked. The entry includes a "Sources consulted:" line naming the editions or sites opened. Add any new open item to the "Open work" paragraph in `method/method.md`. Then commit with a message naming the book and chapter (for example `Genesis 4: verse log, translations, rows 33–37`) and push.
 
 ## Layout for new books
 

@@ -36,6 +36,7 @@ Rules that bind every file:
 - No tradition's, school's or commentator's interpretation is reported. No opinion is added. No "genuinely," "honestly," or hedge language. State the form and stop.
 - Never name a version, group or commentator in `readable.md`.
 - Append and extend. Never rewrite, reorder or restyle what is already written. Correct an earlier entry only when the new chapter proves it wrong, and record the correction in the session log.
+- Every reading cited (Hebrew, Greek, Syriac, Latin, Aramaic, or an English version's wording) comes from an edition listed in `sources/README.md`. An English rendering placed in a comparison table or belief row is checked against a copy of that version, not recalled. A reading taken from a site rather than a critical edition says so in the note.
 
 ## 3. Before translating: write the chapter's watch list
 
@@ -72,14 +73,16 @@ Check each of these and fix what fails:
 - No hedge words. No statement of what the text intends.
 - Nothing already written was changed except a correction you can name.
 - Every readable verse keeps every Hebrew word, including "and it was," "and it shall be" and "also he" style connectives, and keeps an impersonal or passive subject impersonal; it adds no article and no "so," "there," "one" or "the" beyond a copula. If a verse cannot be made readable within (A), (B), (C), leave it literal.
-- Every count you state in a note or finding ("seven times in 4:2–11") was made by listing the verses, and the list is in the note or the concordance.
+- Every count you state in a note or finding ("seven times in 4:2–11") was made by listing the verses, and the list stands beside the number in the same sentence; before committing, re-count each list and compare it with its number, because arithmetic slips ("twenty-three" for a list of twenty-one) were the one error category that survived two audits.
+- A statement that some set of verses is "the only" ones with a property was checked against every verse of the chapter, not only the ones in view.
 - Every witness count in a readable correction ("three old translations") matches the variant table row.
 - No note reports a reading as "some read," "many take," "tradition holds" or the like. State the Hebrew's form and what each witness has, and stop.
 - When you overturn an earlier entry, the session log names the source checked and distinguishes the witness itself from its translation (the Samaritan Pentateuch is not the Samaritan Targum; the LXX is not a Church Father quoting it).
+- Every version rendering in the new comparison table was looked up in the copy named in `sources/README.md`, not recalled.
 
 ## 6. Hand off
 
-Append an entry to `method/session-log.md`: date; book and chapter; verse sections, rows, entries, variant rows and comparison rows added, by number; any earlier entry corrected and why; everything left unchecked, item by item. Add any new open item to the "Open work" paragraph in `method/method.md`. Update the progress table in `README.md`.
+Append an entry to `method/session-log.md`: date; book and chapter; verse sections, rows, entries, variant rows and comparison rows added, by number; any earlier entry corrected and why; everything left unchecked, item by item; a "Sources consulted:" line naming the editions or sites opened. Add any new open item to the "Open work" paragraph in `method/method.md`. Update the progress table in `README.md`.
 
 Then commit all changes with a message naming the book and chapter and listing what was added (for example `Genesis 4: verse log, translations, rows 33–37, finding 8, 3 variants`), and push to `main`. The repository's git identity is already set; do not change it.
 
