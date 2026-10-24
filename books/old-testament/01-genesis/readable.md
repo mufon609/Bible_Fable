@@ -256,9 +256,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *made for human and for his woman* ⸥
 
-**22** And YHWH God said, "Behold, the human has become like one of us, knowing good and bad; and now, lest he send his hand and take also from the tree of life and eat and live forever…"
-
-⸤ *to know good and bad* ⸥
+**22** And YHWH God said, "Behold, the human has become like one of us, to know good and bad; and now, lest he send his hand and take also from the tree of life and eat and live forever…"
 
 *"Us": the plural of 1:26, "let us make," and 11:7, "let us go down." The verse says the human has become like one of a group and does not say who the group is.*
 
