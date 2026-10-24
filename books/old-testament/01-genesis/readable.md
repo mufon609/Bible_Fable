@@ -174,9 +174,9 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ## Chapter 3
 
-**1** And the serpent was shrewd, more than any living-thing of the field which YHWH God had made; and he said to the woman, "Is it even so, that God said, 'You shall not eat from any tree of the garden'?"
+**1** And the serpent was shrewd, more than every living-thing of the field which YHWH God had made; and he said to the woman, "Is it even so, that God said, 'You shall not eat from every tree of the garden'?"
 
-⸤ *shrewd, more than every living-thing… Even so, that God said… from every tree* ⸥
+⸤ *Even so, that God said* ⸥
 
 *"Shrewd": the word Proverbs uses for the prudent (Prov 14:8, 15; 22:3). Its letters are the letters of "naked" in 2:25; the two verses sit side by side. "Serpent" is the everyday snake word (Num 21:6–9; Eccl 10:8), and the verse says it was one of the living-things God made.*
 
@@ -184,9 +184,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **3** but from the fruit of the tree which is in the midst of the garden, God said, 'You shall not eat from it, and you shall not touch it, lest you die.'"
 
-**4** And the serpent said to the woman, "You shall not surely die;
-
-⸤ *Not dying you shall die* ⸥
+**4** And the serpent said to the woman, "Not dying you shall die;
 
 **5** for God knows that in the day you eat from it, your eyes will be opened and you will be like God, knowing good and bad."
 
@@ -194,19 +192,17 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 *"Like God": the same word is "gods" in some readings; the Hebrew form is one word for both, and the verse does not settle it. In 3:22 the narrator's phrase is "like one of us."*
 
-**6** And the woman saw that the tree was good for food, and that it was a desire to the eyes, and that the tree was desirable to make one wise; and she took from its fruit and ate; and she gave also to her man with her, and he ate.
+**6** And the woman saw that the tree was good for food, and that it was a desire to the eyes, and that the tree was desirable to make wise; and she took from its fruit and ate; and she gave also to her man with her, and he ate.
 
 ⸤ *and the tree desirable to make wise* ⸥
 
 *"Fruit": no species is named anywhere in the chapter.*
 
-**7** And the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaves and made themselves belts.
+**7** And the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaf and made themselves belts.
 
-⸤ *sewed fig leaf and made for themselves belts* ⸥
+⸤ *made for themselves belts* ⸥
 
-**8** And they heard the sound of YHWH God walking about in the garden at the wind of the day; and the human and his woman hid themselves from the face of YHWH God among the trees of the garden.
-
-⸤ *in the midst of the tree of the garden* ⸥
+**8** And they heard the sound of YHWH God walking about in the garden at the wind of the day; and the human and his woman hid themselves from the face of YHWH God in the midst of the tree of the garden.
 
 *"At the wind of the day": the ordinary word for wind, breath or spirit, the word of 1:2. "The cool of the day" is a paraphrase.*
 
@@ -226,21 +222,19 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **13** And YHWH God said to the woman, "What is this you have done?" And the woman said, "The serpent deceived me, and I ate."
 
-**14** And YHWH God said to the serpent, "Because you have done this, cursed are you more than every beast and more than every living-thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life.
+**14** And YHWH God said to the serpent, "Because you have done this, cursed are you from every beast and from every living-thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life.
 
-⸤ *cursed are you from every beast and from every living-thing* ⸥
+**15** And I will set enmity between you and between the woman, and between your seed and between her seed; he shall strike you on the head, and you shall strike him on the heel."
 
-**15** And I will set enmity between you and the woman, and between your seed and her seed; he shall strike you on the head, and you shall strike him on the heel."
-
-⸤ *And enmity I will set between you and between the woman, and between your seed and between her seed; he shall strike you \[on the\] head, and you shall strike him \[on the\] heel* ⸥
+⸤ *And enmity I will set… he shall strike you \[on the\] head, and you shall strike him \[on the\] heel* ⸥
 
 *One verb, "strike," is used of both blows; renderings that give the two sides two different verbs add a difference the Hebrew does not have. "He" is the pronoun for "seed," a collective word used of plants (1:11) and of offspring, one or many (15:5); the Hebrew letters can also be read "she," and one old translation did. "Seed," "head" and "heel" are the ordinary words.*
 
-**16** To the woman he said, "I will greatly multiply your toil and your pregnancy; in toil you shall bear sons; and your desire shall be to your man, and he shall rule over you."
+**16** To the woman he said, "Multiplying I will multiply your toil and your pregnancy; in toil you shall bear sons; and your desire shall be to your man, and he shall rule over you."
 
-⸤ *Multiplying I will multiply your toil and your pregnancy… and to your man your desire* ⸥
+⸤ *and to your man your desire* ⸥
 
-*"Toil": the same word is spoken to the man in the next verse, "in toil you shall eat." It is the word for hard labor, not for grief (Gen 5:29; Prov 14:23). "Desire" rests on one Hebrew letter; two old witnesses read "return." "He shall rule" is a statement of what will be, in the same form as "you shall bear" and "it shall sprout" (3:18); the verb is the one used of the lamps ruling day and night (1:18).*
+*"Toil": the same word is spoken to the man in the next verse, "in toil you shall eat." It is the word for hard labor, not for grief (Gen 5:29; Prov 14:23). "Desire" rests on one Hebrew letter; three old witnesses read "return." "He shall rule" is a statement of what will be, in the same form as "you shall bear" and "it shall sprout" (3:18); the verb is the one used of the lamps ruling day and night (1:18).*
 
 **17** And to the human he said, "Because you listened to the voice of your woman and ate from the tree of which I commanded you, 'You shall not eat from it,' cursed is the ground on account of you; in toil you shall eat from it all the days of your life.
 
@@ -248,17 +242,13 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 *"The human," not "Adam": the letters are those of 3:8, 9, 12, 20, 22 and 24, "the human." Here and in 3:21 the name rests on a vowel mark, as in 2:20. The curse falls on the ground; no curse is spoken on the man or the woman in this chapter.*
 
-**18** Thorns and thistles it shall sprout for you, and you shall eat the herb of the field.
+**18** And thorn and thistle it shall sprout for you, and you shall eat the herb of the field.
 
-⸤ *And thorn and thistle it shall sprout for you* ⸥
+**19** In the sweat of your nostrils you shall eat bread, until you return to the ground, for from it you were taken; for dust you are, and to dust you shall return."
 
-**19** By the sweat of your nostrils you shall eat bread, until you return to the ground, for from it you were taken; for dust you are, and to dust you shall return."
+⸤ *until your returning to the ground* ⸥
 
-⸤ *In the sweat of your nostrils… until your returning to the ground* ⸥
-
-**20** And the human called the name of his woman Chavvah, because she was the mother of all living.
-
-⸤ *for she was mother of all living* ⸥
+**20** And the human called the name of his woman Chavvah, for she was mother of all living.
 
 *"Chavvah": the name is explained in the verse itself by the word "living"; the Greek translation rendered it "Life." "Eve" is the Latin form of the name and shows no link to the explanation beside it.*
 
@@ -266,9 +256,9 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *made for human and for his woman* ⸥
 
-**22** And YHWH God said, "Behold, the human has become like one of us, knowing good and bad; and now, lest he reach out his hand and take also from the tree of life and eat and live forever…"
+**22** And YHWH God said, "Behold, the human has become like one of us, knowing good and bad; and now, lest he send his hand and take also from the tree of life and eat and live forever…"
 
-⸤ *to know good and bad; and now, lest he send his hand* ⸥
+⸤ *to know good and bad* ⸥
 
 *"Us": the plural of 1:26, "let us make," and 11:7, "let us go down." The verse says the human has become like one of a group and does not say who the group is.*
 
