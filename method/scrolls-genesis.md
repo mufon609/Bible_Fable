@@ -116,4 +116,6 @@ Every place in `books/old-testament/01-genesis/log/0*.md` and `method/judging-va
 | judging-variants.md:31 (5:13) | whether 4QGen-b's number survives unchecked | B | It does not. |
 | judging-variants.md:44 (6:13) | whether the word survives on 6Q1 unchecked | B | Unchecked still (DJD III). |
 
+Revisited 2026-10-24 (later session): every row above was edited in the cited file with the grade's finding and the prescribed source wording; the log at 1:9 and the variant table gained a 1:9 entry (4QGen-h1, 4QGen-k) that this list had not flagged, and the variant rows at 1:7 and Deut 32:8 were given their scroll names. The 1:8 variant row's "DSS" is still unnamed. See method/session-log.md.
+
 The witness table in `method/method.md` (its Dead Sea Scrolls row, and the "Open work" paragraphs for ch. 1–8) carries the same statements and is to be read with this file; its 4Q1 entry has been given a pointer here rather than rewritten.
