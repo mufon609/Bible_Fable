@@ -333,3 +333,53 @@ The log's own rendering of Genesis, assembled from the verse tables in log/. Lit
 **21** And you, take for yourself from every food which is eaten, and you shall gather \[it\] to yourself; and it shall be for you and for them for food."
 
 **22** And Noach did according to all which God commanded him; so he did.
+
+## Chapter 7
+
+**1** And YHWH said to Noach, "Come, you and all your house, into the box; for you I have seen righteous before me in this generation.
+
+**2** From every clean beast you shall take for yourself seven seven, a man and his woman; and from the beast which is not clean, two, a man and his woman.
+
+**3** Also from the flyer of the heavens seven seven, male and female, to keep alive seed upon the face of all the earth.
+
+**4** For to days yet seven, I am causing rain upon the earth forty days and forty nights; and I will wipe out all the standing which I made from upon the face of the ground."
+
+**5** And Noach did according to all which YHWH commanded him.
+
+**6** And Noach was a son of six hundred years, and the flood was, waters upon the earth.
+
+**7** And Noach came, and his sons and his woman and the women of his sons with him, into the box, from the face of the waters of the flood.
+
+**8** From the clean beast and from the beast which is not clean, and from the flyer and all which creeps upon the ground,
+
+**9** two two came to Noach, into the box, male and female, as God commanded Noach.
+
+**10** And it was, at the seven of the days, and the waters of the flood were upon the earth.
+
+**11** In the year of six hundred years to the life of Noach, in the second month, on the seventeenth day to the month, on this day were split all the fountains of the great deep, and the windows of the heavens were opened.
+
+**12** And the rain was upon the earth forty days and forty nights.
+
+**13** In the bone of this day came Noach, and Shem and Cham and Yefet, the sons of Noach, and the woman of Noach and the three women of his sons with them, into the box:
+
+**14** they, and every living-thing to its kind, and every beast to its kind, and every creeper that creeps upon the earth to its kind, and every flyer to its kind, every bird, every wing.
+
+**15** And they came to Noach, into the box, two two from all the flesh in which is spirit of life.
+
+**16** And the ones coming, male and female from all flesh, came, as God commanded him; and YHWH shut behind him.
+
+**17** And the flood was forty days upon the earth, and the waters multiplied and lifted the box, and it rose from upon the earth.
+
+**18** And the waters prevailed and multiplied very much upon the earth, and the box went upon the face of the waters.
+
+**19** And the waters prevailed very very much upon the earth, and all the high mountains which are under all the heavens were covered.
+
+**20** Fifteen cubits from above the waters prevailed, and the mountains were covered.
+
+**21** And all flesh expired that moves upon the earth, among the flyer and among the beast and among the living-thing and among every swarmer that swarms upon the earth, and all the human.
+
+**22** All which \[had\] breath of spirit of life in its nostrils, from all which was in the dry-land, died.
+
+**23** And he wiped out all the standing which was upon the face of the ground, from human to beast, to creeper and to flyer of the heavens, and they were wiped out from the earth; and only Noach was left, and \[those\] who \[were\] with him in the box.
+
+**24** And the waters prevailed upon the earth fifty and a hundred days.
