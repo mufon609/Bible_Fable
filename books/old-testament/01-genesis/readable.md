@@ -234,7 +234,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *and to your man your desire* ⸥
 
-*"Toil": the same word is spoken to the man in the next verse, "in toil you shall eat." It is the word for hard labor, not for grief (Gen 5:29; Prov 14:23). "Desire" rests on one Hebrew letter; three old witnesses read "return." "He shall rule" is a statement of what will be, in the same form as "you shall bear" and "it shall sprout" (3:18); the verb is the one used of the lamps ruling day and night (1:18).*
+*"Toil": the same word is spoken to the man in the next verse, "in toil you shall eat." It is the word for hard labor, not for grief (Gen 5:29; Prov 14:23). "Desire" rests on one Hebrew letter; two old translations read "return," and both Hebrew lines read "desire." "He shall rule" is a statement of what will be, in the same form as "you shall bear" and "it shall sprout" (3:18); the verb is the one used of the lamps ruling day and night (1:18).*
 
 **17** And to the human he said, "Because you listened to the voice of your woman and ate from the tree of which I commanded you, 'You shall not eat from it,' cursed is the ground on account of you; in toil you shall eat from it all the days of your life.
 
@@ -267,3 +267,113 @@ The running translation, with English grammar allowed to touch it and nothing el
 ⸤ *and he stationed from east of the garden of Eden* ⸥
 
 *"Keep": the verb the human was given in 2:15, "to work it and to keep it." The cherubim are the figures on the covenant chest and the tabernacle curtains (Ex 25:18–20; 26:1, 31). "East" is the direction of 2:8, so the garden has a side and the human is outside it, on the ground he was taken from (3:19, 23).*
+
+## Chapter 4
+
+**1** And the human knew Chavvah his woman, and she conceived and bore Qayin; and she said, "I have acquired a man with YHWH."
+
+*"The human," not "Adam": the letters carry the article here, as in 3:8–24; the name without the article first appears in the letters at 4:25. "With YHWH": the word is "with," as in "walked with God" (5:22, 24); "from" is a different word, not used here.*
+
+**2** And she again bore his brother, Hevel. And Hevel was a shepherd of flock, and Qayin was a worker of ground.
+
+**3** And at the end of days Qayin brought from the fruit of the ground an offering to YHWH.
+
+⸤ *And it was, at the end of days, and Qayin brought* ⸥
+
+*"Offering": the word for a gift carried to a superior (Gen 32:14; 43:11; Judg 3:15) and for the grain offering of the law (Lev 2:1). The chapter has no altar and no word for sacrifice; both brothers bring the same thing, named by the same word.*
+
+**4** And Hevel also brought from the firstborn of his flock and from their fat; and YHWH looked to Hevel and to his offering;
+
+⸤ *And Hevel brought, also he* ⸥
+
+*"Looked to": the verb means to look toward, to turn one's gaze (Ex 5:9; Isa 17:7; 31:1). The text says he looked at one and not at the other (4:5) and states no reason in either verse.*
+
+**5** but to Qayin and to his offering he did not look. And it burned to Qayin greatly, and his face fell.
+
+**6** And YHWH said to Qayin, "Why has it burned to you, and why has your face fallen?
+
+**7** Is it not so: if you do well, there is a lifting; and if you do not do well, sin is lying down at the door; and its desire is to you, and you shall rule over it."
+
+⸤ *Is it not: if you do well, a lifting; and if you do not do well, at the door sin \[is\] lying down; and to you its desire* ⸥
+
+*"A lifting": the noun of the verb in "his face fell" reversed (4:5–6) and of "more than to bear" (4:13); the verb lifts a face (Job 11:15), carries a load (Gen 45:23) and lifts away guilt (Ex 34:7). "Lying down" is the verb for flocks at rest (Gen 29:2; Ex 23:5) and for a curse settling on a man (Deut 29:19). "Sin" is the word's first use. "Desire" and "rule over" are the two words said to the woman in 3:16, in the same order.*
+
+**8** And Qayin said to Hevel his brother. And when they were in the field, Qayin rose up against Hevel his brother and killed him.
+
+⸤ *And it was, in their being in the field, and Qayin rose up* ⸥
+
+*The Hebrew gives no words after "said." Four old witnesses, one of them Hebrew, add "Let us go to the field." The shorter text is kept here; the case is set out in the variant table.*
+
+**9** And YHWH said to Qayin, "Where is Hevel your brother?" And he said, "I do not know. Am I my brother's keeper?"
+
+⸤ *A keeper of my brother \[am\] I?* ⸥
+
+*"Keeper": the verb of 2:15, "to work it and to keep it," and of the cherubim in 3:24, "to keep the way." The same word is a watchman (Ps 121:4; 127:1).*
+
+**10** And he said, "What have you done? The voice of the bloods of your brother are crying to me from the ground.
+
+*"Bloods": plural, the form Hebrew uses for shed blood (Gen 37:26; 2 Sam 16:8); "crying" is plural with it. The ground is the one the human was taken from (2:7; 3:19).*
+
+**11** And now, cursed are you from the ground which opened its mouth to take the bloods of your brother from your hand.
+
+*"Cursed are you from": the wording of 3:14 to the serpent. This is the third curse (3:14, 17) and the first spoken on a human; "from" can mark a comparison or a separation, and the verse allows either.*
+
+**12** When you work the ground, it shall not again give its strength to you; staggering and wandering you shall be in the earth."
+
+**13** And Qayin said to YHWH, "My iniquity is too great to bear."
+
+⸤ *Great is my iniquity, more than to bear* ⸥
+
+*"Iniquity": the word for guilt and for what guilt brings (Gen 19:15; 1 Sam 28:10); "bear" is the "lifting" of 4:7, the verb for carrying a load and for forgiving (Ex 34:7; Num 14:18). "Punishment" is one sense the word can carry, not a separate word in the verse.*
+
+**14** Behold, you have driven me out today from upon the face of the ground, and from your face I shall be hidden; and I shall be staggering and wandering in the earth, and everyone finding me shall kill me."
+
+⸤ *and it shall be, everyone finding me* ⸥
+
+*"Driven out": the verb of 3:24.*
+
+**15** And YHWH said to him, "Therefore everyone killing Qayin shall be avenged sevenfold." And YHWH set for Qayin a sign, so that everyone finding him should not strike him.
+
+⸤ *everyone killing Qayin, sevenfold it shall be avenged* ⸥
+
+*"A sign for Qayin," not "a mark upon Cain": the word is the "signs" of 1:14 and the rainbow (9:12–13); "for" is the word, not "on." Where a sign is on the body the text says so (Ex 13:9, 16). Nothing in the verse says what the sign was or where. "Therefore" is the Hebrew of both Hebrew lines; two old translations read "Not so."*
+
+**16** And Qayin went out from before YHWH, and settled in the land of Nod, east of Eden.
+
+*"Nod" is the noun of "wandering" in 4:12 and 4:14; the land is named by the sentence passed in it. The Greek translation kept it as a place-name, and so does every English one.*
+
+**17** And Qayin knew his woman, and she conceived and bore Chanokh; and he was building a city, and he called the name of the city as the name of his son, Chanokh.
+
+**18** And there was born to Chanokh Irad; and Irad begot Mechuyael; and Mechiyyael begot Metushael; and Metushael begot Lemekh.
+
+**19** And Lemekh took for himself two women; the name of the one was Adah, and the name of the second Tzillah.
+
+**20** And Adah bore Yaval; he was father of the tent-dweller and livestock.
+
+⸤ *father of dweller of tent and livestock* ⸥
+
+**21** And the name of his brother was Yuval; he was father of every handler of lyre and pipe.
+
+**22** And Tzillah also bore Tuval-Qayin, sharpener of every craftsman of bronze and iron; and the sister of Tuval-Qayin was Na'amah.
+
+⸤ *And Tzillah, also she, bore* ⸥
+
+**23** And Lemekh said to his women, "Adah and Tzillah, hear my voice; women of Lemekh, give ear to my saying: for I have killed a man for my wound, and a boy for my bruise.
+
+⸤ *for a man I have killed for my wound* ⸥
+
+**24** For sevenfold shall Qayin be avenged, and Lemekh seventy and seven."
+
+*"Seventy and seven": a number, with no "-fold" and no verb; "seventy times seven" is the Greek translation's phrase (Matt 18:22).*
+
+**25** And Adam knew his woman again, and she bore a son, and she called his name Shet, "for God has set for me another seed instead of Hevel, for Qayin killed him."
+
+⸤ *And Adam knew again his woman* ⸥
+
+*"Adam": here, for the first time, the letters themselves have no article and are not after a preposition (compare 2:20; 3:17, 21), so the word reads as a name by its consonants; in 4:1 the letters still read "the human." "Shet" and "set" are one pair of letters in the Hebrew, as "Qayin" and "acquired" are in 4:1.*
+
+**26** And to Shet also was born a son, and he called his name Enosh. Then it was begun to call on the name of YHWH.
+
+⸤ *And to Shet, also he, was born a son* ⸥
+
+*"It was begun": a passive with no subject; "men" or "people" in English is supplied. "Enosh" is a common word for a human being (Ps 8:5; Job 7:17) used as a name, as "Adam" is. "Call on the name of YHWH" is the phrase of Abram at his altars (12:8; 13:4) and of YHWH proclaiming his own name (Ex 33:19; 34:5).*

@@ -167,3 +167,57 @@ The log's own rendering of Genesis, assembled from the verse tables in log/. Lit
 **23** And YHWH God sent him out from the garden of Eden to work the ground from which he was taken.
 
 **24** And he drove out the human, and he stationed from east of the garden of Eden the cherubim and the flame of the turning sword, to keep the way of the tree of life.
+
+## Chapter 4
+
+**1** And the human knew Chavvah his woman, and she conceived and bore Qayin; and she said, "I have acquired a man with YHWH."
+
+**2** And she again bore his brother, Hevel. And Hevel was a shepherd of flock, and Qayin was a worker of ground.
+
+**3** And it was, at the end of days, and Qayin brought from the fruit of the ground an offering to YHWH.
+
+**4** And Hevel brought, also he, from the firstborn of his flock and from their fat; and YHWH looked to Hevel and to his offering;
+
+**5** but to Qayin and to his offering he did not look. And it burned to Qayin greatly, and his face fell.
+
+**6** And YHWH said to Qayin, "Why has it burned to you, and why has your face fallen?
+
+**7** Is it not: if you do well, a lifting; and if you do not do well, at the door sin \[is\] lying down; and to you its desire, and you shall rule over it."
+
+**8** And Qayin said to Hevel his brother. And it was, in their being in the field, and Qayin rose up against Hevel his brother and killed him.
+
+**9** And YHWH said to Qayin, "Where is Hevel your brother?" And he said, "I do not know. A keeper of my brother \[am\] I?"
+
+**10** And he said, "What have you done? The voice of the bloods of your brother are crying to me from the ground.
+
+**11** And now, cursed are you from the ground which opened its mouth to take the bloods of your brother from your hand.
+
+**12** When you work the ground, it shall not again give its strength to you; staggering and wandering you shall be in the earth."
+
+**13** And Qayin said to YHWH, "Great is my iniquity, more than to bear."
+
+**14** Behold, you have driven me out today from upon the face of the ground, and from your face I shall be hidden; and I shall be staggering and wandering in the earth, and it shall be, everyone finding me shall kill me."
+
+**15** And YHWH said to him, "Therefore everyone killing Qayin, sevenfold it shall be avenged." And YHWH set for Qayin a sign, so that everyone finding him should not strike him.
+
+**16** And Qayin went out from before YHWH, and settled in the land of Nod, east of Eden.
+
+**17** And Qayin knew his woman, and she conceived and bore Chanokh; and he was building a city, and he called the name of the city as the name of his son, Chanokh.
+
+**18** And there was born to Chanokh Irad; and Irad begot Mechuyael; and Mechiyyael begot Metushael; and Metushael begot Lemekh.
+
+**19** And Lemekh took for himself two women; the name of the one was Adah, and the name of the second Tzillah.
+
+**20** And Adah bore Yaval; he was father of dweller of tent and livestock.
+
+**21** And the name of his brother was Yuval; he was father of every handler of lyre and pipe.
+
+**22** And Tzillah, also she, bore Tuval-Qayin, sharpener of every craftsman of bronze and iron; and the sister of Tuval-Qayin was Na'amah.
+
+**23** And Lemekh said to his women, "Adah and Tzillah, hear my voice; women of Lemekh, give ear to my saying: for a man I have killed for my wound, and a boy for my bruise.
+
+**24** For sevenfold shall Qayin be avenged, and Lemekh seventy and seven."
+
+**25** And Adam knew again his woman, and she bore a son, and she called his name Shet, "for God has set for me another seed instead of Hevel, for Qayin killed him."
+
+**26** And to Shet, also he, was born a son, and he called his name Enosh. Then it was begun to call on the name of YHWH.

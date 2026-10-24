@@ -41,7 +41,7 @@ Verse-indexed material lives under its book. Term-indexed material (the belief r
 
 | Book | Chapters done | Belief rows | Findings | Variant cases | Concordance entries |
 | --- | --- | --- | --- | --- | --- |
-| Genesis | 1–3 | 1–32 | 1–7 | 12 | 15 |
+| Genesis | 1–4 | 1–40 | 1–8 | 18 | 21 |
 
 Begun 2026-10-09 in a Claude Doc; migrated to this repository 2026-10-24. The repository is now the only copy that is kept up to date.
 
