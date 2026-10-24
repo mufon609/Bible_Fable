@@ -18,11 +18,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **5** And God called the light "Day," and the darkness he called "Night." And there was evening and there was morning: day one.
 
-*"Day one," not "the first day": a number, not an ordinal, and no "the." Compare "a second day" (1:8) and "the sixth day" (1:31), where the article first appears.*
-
 **6** And God said, "Let an expanse be in the midst of the waters, and let it be a separator between waters and waters."
-
-*"Expanse": a beaten-out sheet; the root means to hammer thin. The old word "firmament" kept that sense.*
 
 **7** And God made the expanse, and separated between the waters which are from beneath the expanse and between the waters which are from above the expanse. And it was so.
 
@@ -39,8 +35,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 *"Earth" is the dry ground the text has just named. It is the same word as "land" in "the land of Egypt" (Gen 13:10) and "the land of Canaan" (Gen 12:5). It is not the planet.*
 
 **11** And God said, "Let the earth sprout sprouts: herb seeding seed, fruit tree making fruit to its kind, whose seed is in it, upon the earth." And it was so.
-
-*"To its kind": an everyday word for sort. Lev 11:14–19 uses it to group hawks, ravens and bats as "kinds" of flyers. It says plants carry their own seed; it names no fixed biological unit.*
 
 **12** And the earth brought out sprouts: herb seeding seed to its kind, and tree making fruit whose seed is in it, to its kind. And God saw that it was good.
 
@@ -110,15 +104,11 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **6** and a flow would go up from the earth and water all the face of the ground.
 
-*"A flow," not "a mist": water rising from the earth. The word's only other use is Job 36:27.*
-
 **7** And YHWH God formed the human, dust from the ground, and blew into his nostrils breath of life; and the human became a living soul.
 
 *"A living soul": what the fish, birds and beasts were called in 1:20, 21, 24 and 30. The human becomes what they already were.*
 
 **8** And YHWH God planted a garden in Eden, from east, and he put there the human whom he had formed.
-
-*A garden inside a region called Eden, on the ground, fed by a river that rises in Eden and runs into the garden (2:10), with the Tigris and Euphrates among its branches (2:14). "Paradise" is a Greek word from a later book.*
 
 **9** And YHWH God made sprout from the ground every tree desirable to the sight and good for food, and the tree of life in the midst of the garden, and the tree of the knowing of good and bad.
 
@@ -139,8 +129,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 **16** And YHWH God commanded the human, saying, "From every tree of the garden, eating you may eat;
 
 **17** but from the tree of the knowing of good and bad you shall not eat from it; for in the day of your eating from it, dying you shall die."
-
-*"Dying you shall die": the fixed wording of a death sentence (Gen 20:7; Ex 19:12). In 1 Kgs 2:37 Solomon says it to Shimei with the same "on the day," and Shimei is executed years later (2:42–46). It pronounces the penalty, not the day it is carried out.*
 
 **18** And YHWH God said, "It is not good for the human to be alone; I will make for him a helper as his counterpart."
 
@@ -165,8 +153,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 **23** And the human said, "This time: bone from my bones and flesh from my flesh. To this shall be called woman, for from man this was taken."
 
 **24** Therefore a man leaves his father and his mother and clings to his woman, and they become one flesh.
-
-*"They," not "the two": "two" is in the Greek translation and in the Gospels (Matt 19:5; Mark 10:8), not in the Hebrew here.*
 
 **25** And the two of them were naked, the human and his woman, and they were not ashamed before each other.
 
@@ -196,15 +182,11 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *and the tree desirable to make wise* ⸥
 
-*"Fruit": no species is named anywhere in the chapter.*
-
 **7** And the eyes of the two of them were opened, and they knew that they were naked; and they sewed fig leaf and made themselves belts.
 
 ⸤ *made for themselves belts* ⸥
 
 **8** And they heard the sound of YHWH God walking about in the garden at the wind of the day; and the human and his woman hid themselves from the face of YHWH God in the midst of the tree of the garden.
-
-*"At the wind of the day": the ordinary word for wind, breath or spirit, the word of 1:2. "The cool of the day" is a paraphrase.*
 
 **9** And YHWH God called to the human and said to him, "Where are you?"
 
@@ -240,8 +222,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *And to human he said… which I commanded you, saying… in toil you shall eat it* ⸥
 
-*"The human," not "Adam": the letters are those of 3:8, 9, 12, 20, 22 and 24, "the human." Here and in 3:21 the name rests on a vowel mark, as in 2:20. The curse falls on the ground; no curse is spoken on the man or the woman in this chapter.*
-
 **18** And thorn and thistle it shall sprout for you, and you shall eat the herb of the field.
 
 **19** In the sweat of your nostrils you shall eat bread, until you return to the ground, for from it you were taken; for dust you are, and to dust you shall return."
@@ -258,15 +238,11 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **22** And YHWH God said, "Behold, the human has become like one of us, to know good and bad; and now, lest he send his hand and take also from the tree of life and eat and live forever…"
 
-*"Us": the plural of 1:26, "let us make," and 11:7, "let us go down." The verse says the human has become like one of a group and does not say who the group is.*
-
 **23** And YHWH God sent him out from the garden of Eden to work the ground from which he was taken.
 
 **24** And he drove out the human, and he stationed to the east of the garden of Eden the cherubim and the flame of the turning sword, to keep the way of the tree of life.
 
 ⸤ *and he stationed from east of the garden of Eden* ⸥
-
-*"Keep": the verb the human was given in 2:15, "to work it and to keep it." The cherubim are the figures on the covenant chest and the tabernacle curtains (Ex 25:18–20; 26:1, 31). "East" is the direction of 2:8, so the garden has a side and the human is outside it, on the ground he was taken from (3:19, 23).*
 
 ## Chapter 4
 
@@ -278,13 +254,9 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **3** And it was, at the end of days, and Qayin brought from the fruit of the ground an offering to YHWH.
 
-*"Offering": the word for a gift carried to a superior (Gen 32:14; 43:11; Judg 3:15) and for the grain offering of the law (Lev 2:1). The chapter has no altar and no word for sacrifice; both brothers bring the same thing, named by the same word.*
-
 **4** And Hevel also brought from the firstborn of his flock and from their fat; and YHWH looked to Hevel and to his offering;
 
 ⸤ *And Hevel brought, also he* ⸥
-
-*"Looked to": the verb means to look toward, to turn one's gaze (Ex 5:9; Isa 17:7; 31:1). The text says he looked at one and not at the other (4:5) and states no reason in either verse.*
 
 **5** but to Qayin and to his offering he did not look. And it burned to Qayin greatly, and his face fell.
 
@@ -293,8 +265,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 **7** Is it not: if you do well, there is a lifting; and if you do not do well, sin is lying down at the door; and its desire is to you, and you shall rule over it."
 
 ⸤ *Is it not: if you do well, a lifting; and if you do not do well, at the door sin \[is\] lying down; and to you its desire* ⸥
-
-*"A lifting": the noun of the verb in "his face fell" reversed (4:5–6) and of "more than to bear" (4:13); the verb lifts a face (Job 11:15), carries a load (Gen 45:23) and lifts away guilt (Ex 34:7). "Lying down" is the verb for flocks at rest (Gen 29:2; Ex 23:5) and for a curse settling on a man (Deut 29:19). "Sin" is the word's first use. "Desire" and "rule over" are the two words said to the woman in 3:16, in the same order.*
 
 **8** And Qayin said to Hevel his brother. And it was, when they were in the field, and Qayin rose up against Hevel his brother and killed him.
 
@@ -306,15 +276,9 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *A keeper of my brother \[am\] I?* ⸥
 
-*"Keeper": the verb of 2:15, "to work it and to keep it," and of the cherubim in 3:24, "to keep the way." The same word is a watchman (Ps 121:4; 127:1).*
-
 **10** And he said, "What have you done? The voice of the bloods of your brother are crying to me from the ground.
 
-*"Bloods": plural, the form Hebrew uses for shed blood (Gen 37:26; 2 Sam 16:8); "crying" is plural with it. The ground is the one the human was taken from (2:7; 3:19).*
-
 **11** And now, cursed are you from the ground which opened its mouth to take the bloods of your brother from your hand.
-
-*"Cursed are you from": the wording of 3:14 to the serpent. This is the third curse (3:14, 17) and the first spoken on a human; "from" can mark a comparison or a separation, and the verse allows either.*
 
 **12** When you work the ground, it shall not again give its strength to you; staggering and wandering you shall be in the earth."
 
@@ -322,19 +286,13 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *Great is my iniquity, more than to bear* ⸥
 
-*"Iniquity": the word for guilt and for what guilt brings (Gen 19:15; 1 Sam 28:10); "bear" is the "lifting" of 4:7, the verb for carrying a load and for forgiving (Ex 34:7; Num 14:18). "Punishment" is one sense the word can carry, not a separate word in the verse.*
-
 **14** Behold, you have driven me out today from upon the face of the ground, and from your face I shall be hidden; and I shall be staggering and wandering in the earth, and it shall be, everyone finding me shall kill me."
-
-*"Driven out": the verb of 3:24.*
 
 **15** And YHWH said to him, "Therefore everyone killing Qayin, sevenfold it shall be avenged." And YHWH set for Qayin a sign, so that everyone finding him should not strike him.
 
 *"A sign for Qayin," not "a mark upon Cain": the word is the "signs" of 1:14 and the rainbow (9:12–13); "for" is the word, not "on." Where a sign is on the body the text says so (Ex 13:9, 16). Nothing in the verse says what the sign was or where. "Therefore" is the word of both Hebrew lines; three old translations read "Not so."*
 
 **16** And Qayin went out from before YHWH, and settled in the land of Nod, east of Eden.
-
-*"Nod" is the noun of "wandering" in 4:12 and 4:14; the land is named by the sentence passed in it. The Greek translation kept it as a place-name, and so does every English one.*
 
 **17** And Qayin knew his woman, and she conceived and bore Chanokh; and he was building a city, and he called the name of the city as the name of his son, Chanokh.
 
@@ -358,19 +316,13 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **24** For sevenfold shall Qayin be avenged, and Lemekh seventy and seven."
 
-*"Seventy and seven": a number, with no "-fold" and no verb; "seventy times seven" is the Greek translation's phrase (Matt 18:22).*
-
 **25** And Adam knew his woman again, and she bore a son, and she called his name Shet, "for God has set for me another seed instead of Hevel, for Qayin killed him."
 
 ⸤ *And Adam knew again his woman* ⸥
 
-*"Adam": here, for the first time, the letters themselves have no article and are not after a preposition (compare 2:20; 3:17, 21), so the word reads as a name by its consonants; in 4:1 the letters still read "the human." "Shet" and "set" are one pair of letters in the Hebrew, as "Qayin" and "acquired" are in 4:1.*
-
 **26** And to Shet also was born a son, and he called his name Enosh. Then it was begun to call on the name of YHWH.
 
 ⸤ *And to Shet, also he, was born a son* ⸥
-
-*"It was begun": a passive with no subject; "men" or "people" in English is supplied. "Enosh" is a common word for a human being (Ps 8:5; Job 7:17) used as a name, as "Adam" is. "Call on the name of YHWH" is the phrase of Abram at his altars (12:8; 13:4) and of YHWH proclaiming his own name (Ex 33:19; 34:5).*
 
 ## Chapter 5
 
@@ -378,27 +330,19 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *In the day of God's creating human* ⸥
 
-*"Begettings," not "generations" as ages or eras: the word is built on "bear" and heads what came from the one named, as in 2:4. "Human": the word has no article here or in 5:2, and the pronouns that follow it are "him" and then "them," as in 1:27; the same letters are the name in 5:3–5, where one man lives and dies.*
-
 **2** Male and female he created them, and he blessed them and called their name human, in the day they were created.
 
 ⸤ *in the day of their being created* ⸥
 
-*"Called their name human": the pair receives one name, and it is the word for humankind of 1:26, not a man's name given to the species; the ancient translations wrote the name "Adam" here, and every English version follows them with "Adam," "Man" or "Mankind."*
-
 **3** And Adam lived a hundred and thirty years, and begot in his likeness, as his image, and called his name Shet.
 
 ⸤ *thirty and a hundred years* ⸥
-
-*"In his likeness, as his image": the two words of 1:26 with their prepositions exchanged; the son stands to Adam as Adam to God in 5:1. The Hebrew names no son in this clause; "a son" is supplied in English.*
 
 **4** And the days of Adam after he begot Shet were eight hundred years, and he begot sons and daughters.
 
 ⸤ *after his begetting Shet* ⸥
 
 **5** And all the days of Adam which he lived were nine hundred years and thirty years, and he died.
-
-*The numbers printed here are those of the pointed Hebrew text, which the oldest Latin and Syriac translations share. The second Hebrew line and the oldest Greek translation give other numbers in most lines of this chapter (5:3–31); the full table is in the verse log at 5:3 and the case in the variant table. In all three sets the total is the sum of the two parts. The Hebrew says the smaller number first and repeats "years" after each part; both are kept.*
 
 **6** And Shet lived five years and a hundred years, and begot Enosh.
 
@@ -446,13 +390,9 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *after his begetting Metushelach* ⸥
 
-*"Walked about with God": the verb is the one of 3:8, where it is God walking about in the garden; "with" is the word of 4:1. The phrase is said again of Noach (6:9) and of no one else. The oldest Greek translation rendered it "pleased God" here and in 5:24, and that wording passed into the New Testament (Heb 11:5); the Hebrew has a verb of walking, and "faithfully" is not in it.*
-
 **23** And all the days of Chanokh were five and sixty years and three hundred years.
 
 **24** And Chanokh walked about with God, and he was not, for God took him.
-
-*"He was not" is the phrase said of a person who is gone (Gen 37:30; 42:13, 36; Ps 37:10); "took" is the ordinary verb for taking (2:15; 3:6; 4:11). The verse names no place. Where the Bible tells of a man taken by God and says where, it says so (2 Kgs 2:11, "into the heavens"); "translated" and "transferred" are the Greek translation's word (Heb 11:5), not the Hebrew's.*
 
 **25** And Metushelach lived seven and eighty years and a hundred years, and begot Lemekh.
 
@@ -466,8 +406,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **29** And he called his name Noach, saying, "This one shall comfort us from our work and from the toil of our hands, from the ground which YHWH cursed."
 
-*"Comfort": the verb has the two letters of the name and one more; the name itself has the letters of "rest," a different verb the verse does not use, and the Greek translation rendered "give us rest." "Toil" is the word said to the woman and the man in 3:16–17, its third and last use. "From the ground which YHWH cursed": in 3:17 the ground "is cursed" with no one named; here the speaker names YHWH. The three "from" are parallel in the Hebrew; "concerning" and "because of" are not in it.*
-
 **30** And Lemekh lived after he begot Noach five and ninety years and five hundred years, and begot sons and daughters.
 
 ⸤ *after his begetting Noach* ⸥
@@ -475,8 +413,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 **31** And all the days of Lemekh were seven and seventy years and seven hundred years, and he died.
 
 **32** And Noach was a son of five hundred years, and Noach begot Shem, Cham and Yefet.
-
-*"A son of five hundred years": the Hebrew idiom for a person's age (7:6; 12:4; 21:5); "five hundred years old" is its English. Noach's line is left open: no "sons and daughters," no total, no death; 9:28–29 closes it in the formula's words.*
 
 ## Chapter 6
 
@@ -486,15 +422,9 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *saw the daughters of the human, that they were good* ⸥
 
-*"Sons of God": the phrase of 6:2, 4 and of Job 1:6; 2:1; 38:7, where they shout as the earth's foundations are laid; both Hebrew lines have it, and one old Greek copy wrote "angels" here and "sons" in 6:4. "Took for themselves women": the Hebrew has one word for woman and wife and no verb for marrying; the verse states seeing, choosing and taking. "Good" is the word of 1:4–31; "fair" and "beautiful" narrow it.*
-
 **3** And YHWH said, "My spirit shall not abide in the human forever, in that also he is flesh; and his days shall be a hundred and twenty years."
 
-*"Abide": the letters are read by the medieval vowels as a verb form found nowhere else; the oldest Greek, Latin and Syriac translations all read a verb of remaining, and "strive" follows a different root. "In that also he is flesh": three particles written as one word. The hundred and twenty years are "his days," the human's; the clause does not say from when they are counted.*
-
 **4** The Nefilim were in the earth in those days, and also after that, when the sons of God would come in to the daughters of the human and they bore to them: they are the mighty ones who were from of old, the men of the name.
-
-*"Nefilim": a word of three uses (here and Num 13:33 twice), unglossed, whose letters are those of "fall." "Giants" is the oldest Greek translation's word, used there both for "Nefilim" and for "the mighty ones" later in the verse, so the English reader cannot see that the Hebrew has two words. "They bore": the verb's form has the daughters as subject; the second Hebrew line reads "they begot," with the sons of God as subject.*
 
 **5** And YHWH saw that the badness of the human was great in the earth, and every forming of the thoughts of his heart was only bad all the day.
 
@@ -508,11 +438,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **7** And YHWH said, "I will wipe out the human whom I created from upon the face of the ground, from human to beast, to creeper and to flyer of the heavens; for I am sorry that I made them."
 
-*"Wipe out": the verb for wiping a dish (2 Kgs 21:13) and blotting a name from a book (Ex 32:32); "destroy" is another word. "Human… beast… creeper… flyer of the heavens": the list of 1:24–28 in the words of ch. 1.*
-
 **8** And Noach found favor in the eyes of YHWH.
-
-*"Found favor in the eyes of": the idiom for being well received by a superior, used by Jacob toward Esau (33:8, 10) and by the Egyptians toward Joseph (47:25); this is its first use in the Bible. "Grace" was exact in older English and now names a doctrine; the Hebrew states no gift and no ground.*
 
 **9** These are the begettings of Noach. Noach was a righteous man, whole in his generations; Noach walked about with God.
 
@@ -526,21 +452,17 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *filled \[with\] violence* ⸥
 
-*"Ruined": one Hebrew verb stands five times in 6:11–17. The earth "was ruined," all flesh "had ruined its way," God is "ruining them," and the flood comes "to ruin all flesh." English versions render the first two "corrupt" and the last two "destroy," so the reader cannot see that the act and its answer carry one word. "Violence": wrong done by the hand or by false witness (Ex 23:1; Ps 58:2).*
-
 **12** And God saw the earth, and behold, it was ruined; for all flesh had ruined its way upon the earth.
 
 **13** And God said to Noach, "The end of all flesh has come before me, for the earth is filled with violence from their face; and behold, I am ruining them with the earth.
 
 ⸤ *filled \[with\] violence* ⸥
 
-*"All flesh": the phrase of 6:12, 13, 17, 19; in 6:17 and 6:19 it is defined as everything with spirit of life and includes the animals, and versions that write "all people" here decide what the Hebrew leaves as one phrase. "With the earth": the particle can mark an object ("them, the earth") or mean "with" (4:1; 5:22); the oldest Greek translation read "them and the earth."*
-
 **14** Make for yourself a box of gofer trees; you shall make the box nests, and you shall pitch it from inside and from outside with the pitch.
 
 ⸤ *a box of trees of gofer; nests you shall make the box* ⸥
 
-*"Box": the Hebrew word is used of this vessel and of the papyrus box in which Moses is laid (Ex 2:3, 5), and of nothing else; the chest of the covenant is another word (Ex 25:10). The Greek and Latin translations used one word for both, and English "ark" inherited it, so the English joins two things the Hebrew keeps apart. "Nests": the word's other twelve uses are birds' nests (Deut 22:6; Ps 84:4); the oldest Greek translation kept "nests," and "rooms" is later English. "Gofer": one use, unglossed; no species is in the Hebrew.*
+*"Box": the Hebrew word is used of this vessel and of the papyrus box in which Moses is laid (Ex 2:3, 5), and of nothing else; the chest of the covenant is another word (Ex 25:10). The Greek and Latin translations used one word for both, and English "ark" inherited it, so the English joins two things the Hebrew keeps apart.*
 
 **15** And this is what you shall make it: the length of the box three hundred cubits, its breadth fifty cubits, and its height thirty cubits.
 
@@ -550,8 +472,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 ⸤ *A tzohar you shall make for the box, and to a cubit you shall finish it from above; and the opening of the box you shall set in its side; lower, second and third \[ones\] you shall make it* ⸥
 
-*"Tzohar": a word used once in this form; its dual is "noon" (43:16). "Window" and "roof" are each a decision the Hebrew does not make, and when the text names the box's window in 8:6 it uses another word. "Lower, second and third": three adjectives with no noun; "stories" and "decks" are supplied.*
-
 **17** And I, behold, I am bringing the flood, waters upon the earth, to ruin all flesh in which is spirit of life, from under the heavens; all which is in the earth shall expire.
 
 *"Spirit of life": the word is the "spirit" of 1:2 and of 6:3 ("my spirit"), not the "breath" of 2:7, which is another noun; versions that write "breath of life" in both places join two words the Hebrew keeps apart. The spirit of life here is in "all flesh," the animals included (7:15, 22). "Expire": a different verb from "die" (2:17); Abraham "expired and died" (25:8).*
@@ -559,8 +479,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 **18** And I will establish my covenant with you, and you shall come into the box, you and your sons and your woman and your sons' women with you.
 
 ⸤ *the women of your sons* ⸥
-
-*"Covenant": the word's first use. "Establish" is "cause to stand," the verb of 9:9–17, where the covenant's terms are given; this verse names it and states no term.*
 
 **19** And from all the living, from all flesh, you shall bring two from all into the box to keep alive with you; male and female they shall be.
 
