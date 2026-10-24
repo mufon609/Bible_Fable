@@ -477,3 +477,99 @@ The running translation, with English grammar allowed to touch it and nothing el
 **32** And Noach was a son of five hundred years, and Noach begot Shem, Cham and Yefet.
 
 *"A son of five hundred years": the Hebrew idiom for a person's age (7:6; 12:4; 21:5); "five hundred years old" is its English. Noach's line is left open: no "sons and daughters," no total, no death; 9:28–29 closes it in the formula's words.*
+
+## Chapter 6
+
+**1** And it was, when the human began to multiply upon the face of the ground, and daughters were born to them,
+
+**2** and the sons of God saw that the daughters of the human were good; and they took for themselves women from all which they chose.
+
+⸤ *saw the daughters of the human, that they were good* ⸥
+
+*"Sons of God": the phrase of 6:2, 4 and of Job 1:6; 2:1; 38:7, where they shout as the earth's foundations are laid; both Hebrew lines have it, and one old Greek copy wrote "angels" here and "sons" in 6:4. "Took for themselves women": the Hebrew has one word for woman and wife and no verb for marrying; the verse states seeing, choosing and taking. "Good" is the word of 1:4–31; "fair" and "beautiful" narrow it.*
+
+**3** And YHWH said, "My spirit shall not abide in the human forever, in that also he is flesh; and his days shall be a hundred and twenty years."
+
+*"Abide": the letters are read by the medieval vowels as a verb form found nowhere else; the oldest Greek, Latin, Syriac and Aramaic translations all read a verb of remaining, and "strive" follows a different root. "In that also he is flesh": three particles written as one word. The hundred and twenty years are "his days," the human's; the clause does not say from when they are counted.*
+
+**4** The Nefilim were in the earth in those days, and also after that, when the sons of God would come in to the daughters of the human and they bore to them: they are the mighty ones who were from of old, the men of the name.
+
+*"Nefilim": a word of three uses (here and Num 13:33 twice), unglossed, whose letters are those of "fall." "Giants" is the oldest Greek translation's word, used there both for "Nefilim" and for "the mighty ones" later in the verse, so the English reader cannot see that the Hebrew has two words. "They bore": the verb's form has the daughters as subject; the second Hebrew line reads "they begot," with the sons of God as subject.*
+
+**5** And YHWH saw that the badness of the human was great in the earth, and every forming of the thoughts of his heart was only bad all the day.
+
+⸤ *that great was the badness of the human in the earth* ⸥
+
+*"Forming": the noun of the verb "formed" in 2:7–8, what a potter or maker shapes (Isa 29:16; Ps 103:14); "imagination" meant a devising in older English and now means fancy. "Bad" is the word of 2:9 and 3:5, "good and bad"; "wickedness" and "evil" narrow it to the moral sense.*
+
+**6** And YHWH was sorry that he had made the human in the earth, and he was grieved to his heart.
+
+*"Was sorry": the form means "change one's mind, relent," and is said of God in Ex 32:14 and 1 Sam 15:11, 29; "repented" meant the same in older English and now means turning from sin. "Grieved": the verb whose noun is the "toil" of 3:16–17 and 5:29; the one root is said of the woman, of the man and now of YHWH.*
+
+**7** And YHWH said, "I will wipe out the human whom I created from upon the face of the ground, from human to beast, to creeper and to flyer of the heavens; for I am sorry that I made them."
+
+*"Wipe out": the verb for wiping a dish (2 Kgs 21:13) and blotting a name from a book (Ex 32:32); "destroy" is another word. "Human… beast… creeper… flyer of the heavens": the list of 1:24–28 in the words of ch. 1.*
+
+**8** And Noach found favor in the eyes of YHWH.
+
+*"Found favor in the eyes of": the idiom for being well received by a superior, used by Jacob toward Esau (33:8, 10) and by the Egyptians toward Joseph (47:25); this is its first use in the Bible. "Grace" was exact in older English and now names a doctrine; the Hebrew states no gift and no ground.*
+
+**9** These are the begettings of Noach. Noach was a righteous man, whole in his generations; Noach walked about with God.
+
+⸤ *with God Noach walked about* ⸥
+
+*"Begettings… generations": two Hebrew words in one verse, the first built on "bear" (2:4; 5:1), the second the word for an age or the people of one time (7:1; 15:16); older English used "generations" for both. "Whole": the word for an animal without blemish (Lev 1:3) and for a person sound and complete (17:1; Ps 18:23); "perfect" and "blameless" are its English. "Walked about with God": the clause of 5:22, 24, said of Chanokh and Noach and of no one else; the oldest Greek and Syriac translations read "pleased God" here.*
+
+**10** And Noach begot three sons: Shem, Cham and Yefet.
+
+**11** And the earth was ruined before God, and the earth was filled with violence.
+
+⸤ *filled \[with\] violence* ⸥
+
+*"Ruined": one Hebrew verb stands five times in 6:11–17. The earth "was ruined," all flesh "had ruined its way," God is "ruining them," and the flood comes "to ruin all flesh." English versions render the first two "corrupt" and the last two "destroy," so the reader cannot see that the act and its answer carry one word. "Violence": wrong done by the hand or by false witness (Ex 23:1; Ps 58:2).*
+
+**12** And God saw the earth, and behold, it was ruined; for all flesh had ruined its way upon the earth.
+
+**13** And God said to Noach, "The end of all flesh has come before me, for the earth is filled with violence from their face; and behold, I am ruining them with the earth.
+
+⸤ *filled \[with\] violence* ⸥
+
+*"All flesh": the phrase of 6:12, 13, 17, 19; in 6:17 and 6:19 it is defined as everything with spirit of life and includes the animals, and versions that write "all people" here decide what the Hebrew leaves as one phrase. "With the earth": the particle can mark an object ("them, the earth") or mean "with" (4:1; 5:22); the oldest Greek translation read "them and the earth."*
+
+**14** Make for yourself a box of gofer trees; you shall make the box nests, and you shall pitch it from inside and from outside with the pitch.
+
+⸤ *a box of trees of gofer; nests you shall make the box* ⸥
+
+*"Box": the Hebrew word is used of this vessel and of the papyrus box in which Moses is laid (Ex 2:3, 5), and of nothing else; the chest of the covenant is another word (Ex 25:10). The Greek and Latin translations used one word for both, and English "ark" inherited it, so the English joins two things the Hebrew keeps apart. "Nests": the word's other twelve uses are birds' nests (Deut 22:6; Ps 84:4); the oldest Greek translation kept "nests," and "rooms" is later English. "Gofer": one use, unglossed; no species is in the Hebrew.*
+
+**15** And this is what you shall make it: the length of the box three hundred cubits, its breadth fifty cubits, and its height thirty cubits.
+
+⸤ *three hundred cubits the length of the box, fifty cubits its breadth, and thirty cubits its height* ⸥
+
+**16** You shall make a tzohar for the box, and you shall finish it to a cubit from above; and you shall set the opening of the box in its side; you shall make it lower, second and third ones.
+
+⸤ *A tzohar you shall make for the box, and to a cubit you shall finish it from above; and the opening of the box you shall set in its side; lower, second and third \[ones\] you shall make it* ⸥
+
+*"Tzohar": a word used once in this form; its dual is "noon" (43:16). "Window" and "roof" are each a decision the Hebrew does not make, and when the text names the box's window in 8:6 it uses another word. "Lower, second and third": three adjectives with no noun; "stories" and "decks" are supplied.*
+
+**17** And I, behold, I am bringing the flood, waters upon the earth, to ruin all flesh in which is spirit of life, from under the heavens; all which is in the earth shall expire.
+
+*"Spirit of life": the word is the "spirit" of 1:2 and of 6:3 ("my spirit"), not the "breath" of 2:7, which is another noun; versions that write "breath of life" in both places join two words the Hebrew keeps apart. The spirit of life here is in "all flesh," the animals included (7:15, 22). "Expire": a different verb from "die" (2:17); Abraham "expired and died" (25:8).*
+
+**18** And I will establish my covenant with you, and you shall come into the box, you and your sons and your woman and your sons' women with you.
+
+⸤ *the women of your sons* ⸥
+
+*"Covenant": the word's first use. "Establish" is "cause to stand," the verb of 9:9–17, where the covenant's terms are given; this verse names it and states no term.*
+
+**19** And from all the living, from all flesh, you shall bring two from all into the box to keep alive with you; male and female they shall be.
+
+⸤ *two from all you shall bring into the box* ⸥
+
+**20** From the flyer to its kind and from the beast to its kind, from every creeper of the ground to its kind, two from all shall come to you to keep alive.
+
+**21** And you, take for yourself from every food which is eaten, and you shall gather it to yourself; and it shall be for you and for them for food."
+
+⸤ *gather \[it\]* ⸥
+
+**22** And Noach did according to all which God commanded him; so he did.

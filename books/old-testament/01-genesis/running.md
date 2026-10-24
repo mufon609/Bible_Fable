@@ -287,3 +287,49 @@ The log's own rendering of Genesis, assembled from the verse tables in log/. Lit
 **31** And all the days of Lemekh were seven and seventy years and seven hundred years, and he died.
 
 **32** And Noach was a son of five hundred years, and Noach begot Shem, Cham and Yefet.
+
+## Chapter 6
+
+**1** And it was, when the human began to multiply upon the face of the ground, and daughters were born to them,
+
+**2** and the sons of God saw the daughters of the human, that they were good; and they took for themselves women from all which they chose.
+
+**3** And YHWH said, "My spirit shall not abide in the human forever, in that also he is flesh; and his days shall be a hundred and twenty years."
+
+**4** The Nefilim were in the earth in those days, and also after that, when the sons of God would come in to the daughters of the human and they bore to them: they are the mighty ones who were from of old, the men of the name.
+
+**5** And YHWH saw that great was the badness of the human in the earth, and every forming of the thoughts of his heart was only bad all the day.
+
+**6** And YHWH was sorry that he had made the human in the earth, and he was grieved to his heart.
+
+**7** And YHWH said, "I will wipe out the human whom I created from upon the face of the ground, from human to beast, to creeper and to flyer of the heavens; for I am sorry that I made them."
+
+**8** And Noach found favor in the eyes of YHWH.
+
+**9** These are the begettings of Noach. Noach was a righteous man, whole in his generations; with God Noach walked about.
+
+**10** And Noach begot three sons: Shem, Cham and Yefet.
+
+**11** And the earth was ruined before God, and the earth was filled \[with\] violence.
+
+**12** And God saw the earth, and behold, it was ruined; for all flesh had ruined its way upon the earth.
+
+**13** And God said to Noach, "The end of all flesh has come before me, for the earth is filled \[with\] violence from their face; and behold, I am ruining them with the earth.
+
+**14** Make for yourself a box of trees of gofer; nests you shall make the box, and you shall pitch it from inside and from outside with the pitch.
+
+**15** And this is what you shall make it: three hundred cubits the length of the box, fifty cubits its breadth, and thirty cubits its height.
+
+**16** A tzohar you shall make for the box, and to a cubit you shall finish it from above; and the opening of the box you shall set in its side; lower, second and third \[ones\] you shall make it.
+
+**17** And I, behold, I am bringing the flood, waters upon the earth, to ruin all flesh in which is spirit of life, from under the heavens; all which is in the earth shall expire.
+
+**18** And I will establish my covenant with you, and you shall come into the box, you and your sons and your woman and the women of your sons with you.
+
+**19** And from all the living, from all flesh, two from all you shall bring into the box to keep alive with you; male and female they shall be.
+
+**20** From the flyer to its kind and from the beast to its kind, from every creeper of the ground to its kind, two from all shall come to you to keep alive.
+
+**21** And you, take for yourself from every food which is eaten, and you shall gather \[it\] to yourself; and it shall be for you and for them for food."
+
+**22** And Noach did according to all which God commanded him; so he did.
