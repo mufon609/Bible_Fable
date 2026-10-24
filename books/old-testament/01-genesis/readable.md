@@ -474,8 +474,6 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **31** And all the days of Lemekh were seven and seventy years and seven hundred years, and he died.
 
-**32** And Noach was five hundred years old, and Noach begot Shem, Cham and Yefet.
+**32** And Noach was a son of five hundred years, and Noach begot Shem, Cham and Yefet.
 
-⸤ *a son of five hundred years* ⸥
-
-*"Five hundred years old" is the Hebrew idiom "son of five hundred years" (7:6; 12:4; 21:5). Noach's line is left open: no "sons and daughters," no total, no death; 9:28–29 closes it in the formula's words.*
+*"A son of five hundred years": the Hebrew idiom for a person's age (7:6; 12:4; 21:5); "five hundred years old" is its English. Noach's line is left open: no "sons and daughters," no total, no death; 9:28–29 closes it in the formula's words.*
