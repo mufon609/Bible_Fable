@@ -490,7 +490,7 @@ The running translation, with English grammar allowed to touch it and nothing el
 
 **3** And YHWH said, "My spirit shall not abide in the human forever, in that also he is flesh; and his days shall be a hundred and twenty years."
 
-*"Abide": the letters are read by the medieval vowels as a verb form found nowhere else; the oldest Greek, Latin, Syriac and Aramaic translations all read a verb of remaining, and "strive" follows a different root. "In that also he is flesh": three particles written as one word. The hundred and twenty years are "his days," the human's; the clause does not say from when they are counted.*
+*"Abide": the letters are read by the medieval vowels as a verb form found nowhere else; the oldest Greek, Latin and Syriac translations all read a verb of remaining, and "strive" follows a different root. "In that also he is flesh": three particles written as one word. The hundred and twenty years are "his days," the human's; the clause does not say from when they are counted.*
 
 **4** The Nefilim were in the earth in those days, and also after that, when the sons of God would come in to the daughters of the human and they bore to them: they are the mighty ones who were from of old, the men of the name.
 

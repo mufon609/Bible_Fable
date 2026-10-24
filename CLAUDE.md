@@ -17,6 +17,10 @@ A study of the text itself, in two layers: a literal text (the evidence) and a r
 
 No tradition's, school's or commentator's interpretation is reported, and no opinion is added. State the form and stop.
 
+## Scope
+
+The project compares the texts that shaped what English readers believe, and nothing else. Ancient witnesses: the Masoretic Text (Leningrad), the Samaritan Pentateuch, and the Septuagint in Rahlfs–Hanhart; the Vulgate and the Peshitta only where they differ from the Hebrew, and only in the critical edition (Clementine/Weber–Gryson; Leiden); a Dead Sea Scroll only for a verse it covers. English versions: KJV, NIV, ESV, NASB, NRSV, JPS. No Targums, no Jubilees, no Josephus, no Church Fathers, no modern commentators, and no single manuscript cited as if it were a tradition (a scroll covering the verse is the one exception). If a reading needs a text outside this list, it is out of scope and is not recorded. Added 2026-10-24 after an audit found Onqelos, the Samaritan Targum, Jubilees, Josephus and Codex Alexandrinus cited in ch. 2–6; those citations are marked or removed and the session log says which.
+
 ## The rules (full text in method/method.md)
 
 1. One English word per Hebrew word where English allows; verb forms, articles, number and repeated structure kept as the Hebrew has them; a word's range settled by the book's own usage, never by doctrine.
@@ -25,9 +29,9 @@ No tradition's, school's or commentator's interpretation is reported, and no opi
 4. Extra-biblical data (cognates, Near Eastern practice) only to fix a word's meaning, never to supply a picture.
 5. A parallel carries its full distribution, hits and misses, and its weight as a count. A new term the Findings lean on gets a Concordance entry.
 6. Belief table: state what the English permits; a claim about what readers believed only with a citation.
-7. Readable text: three permitted changes only, (A) English word order or phrasing of a construct, (B) a copula or reciprocal the Hebrew form supplies, (C) a bracketed supplied word unbracketed. Corrections only for well-known misreadings, one or two sentences, with one to four verses a reader can open. "It was" in "saw that it was good" is supplied without marking.
+7. Readable text: three permitted changes only, (A) English word order or phrasing of a construct, (B) a copula or reciprocal the Hebrew form supplies, (C) a bracketed supplied word unbracketed. A correction only where the KJV rendering produced a reading the Hebrew does not permit, or where a modern rendering shared by four or more of the six versions does; any other difference belongs in the belief table, not under the verse. One or two sentences, with one to four verses a reader can open. "It was" in "saw that it was good" is supplied without marking.
 8. Transliteration: *ch* ח, *kh* soft כ, *tz* צ, *q* ק, *sh* שׁ, *s* שׂ and ס; *'* for ע and for א within a word, unmarked at the start of a word; doubled consonants for dagesh forte; construct forms as pronounced.
-9. Sources: every reading cited (Hebrew, Greek, Syriac, Latin, Aramaic, or an English version's wording) names the edition, manuscript image or site it was taken from, and that source is entered in `sources/README.md` the first time it is used. The register records; it does not restrict. Prefer the oldest primary evidence available: a manuscript photograph or published plate over a printed edition, a printed critical edition over a website, an original printing of a version over a later revision. An English rendering placed in a comparison table or belief row is checked against a copy of that version, not recalled, and the copy is named. A reading taken from a site rather than an edition says so in the note.
+9. Sources: every reading cited names the edition or site it was taken from, and that source is entered in `sources/README.md` the first time it is used; the register is the scope list, and a source that is not one of the admitted texts (see Scope) is not added to it. Within each witness, prefer the critical edition and name the copy; within the English versions, name the printing. A scroll is cited from its published plate or edition. An English rendering placed in a comparison table or belief row is checked against a copy of that version, not recalled, and the copy is named. A reading taken from a site rather than an edition says so in the note.
 
 ## Per-chapter deliverables, in this order
 
@@ -42,6 +46,7 @@ No tradition's, school's or commentator's interpretation is reported, and no opi
 
 ## Do not
 
+- Cite a text outside the Scope list, or add one to the sources register.
 - Rewrite, reorder or restyle anything already written. Append and extend. Correct an earlier entry only when the new chapter proves it wrong, and say so in the session log.
 - Report what any tradition teaches a verse means.
 - Name a version, group or commentator in `readable.md`.
